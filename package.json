@@ -1,0 +1,35 @@
+{
+  "name": "trendlecciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/js/aplicacion.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Gilberto Leon",
+    "url": "http://info.gilbertoleon.io"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-minifier": "^0.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.2",
+    "merge2": "^1.2.0"
+  },
+  "dependencies": {
+    "d3": "^3.5.17",
+    "d3-queue": "^3.0.7",
+    "downloadjs": "^1.4.7",
+    "jquery": "^3.3.1",
+    "jquery-visible": "^1.2.0",
+    "lodash": "^4.17.10",
+    "tooltipster": "^4.2.6",
+    "topojson": "^1.6.27"
+  }
+}
