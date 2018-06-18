@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mancera",
+    "nombre": "Miguel Ángel Mancera Espinosa",
+    "nombrecorto": "Mancera",
+    "color": "#FFCD00",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAoOzv1QkM",
+    "img": "mancera.png"
+  },
+  {
+    "id": "moreno",
+    "nombre": "Rafael Moreno Valle",
+    "nombrecorto": "Moreno",
+    "color": "#005baa",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAoKynrwkM",
+    "img": "moreno.png"
+  },
+  {
+    "id": "anaya",
+    "nombre": "Ricardo Anaya Cortés",
+    "nombrecorto": "Anaya",
+    "color": "#2e9dfc",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMjFjAoM",
+    "img": "anaya.png"
+  }
+]

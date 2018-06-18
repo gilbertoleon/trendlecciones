@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2005-2006",
+    "nombre": "Andrés Manuel López Obrador (2005 - 2006)",
+    "nombrecorto": "AMLO (2005 - 2006)",
+    "color": "#960000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwIiWjwkM",
+    "img": "amlo2005-2006.png",
+    "coords": { "x": 244, "y": -330 }
+  },
+  {
+    "id": "2011-2012",
+    "nombre": "Andrés Manuel López Obrador (2011 - 2012)",
+    "nombrecorto": "AMLO (2011 - 2012)",
+    "color": "#960000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwIiWjwkM",
+    "img": "amlo2011-2012.png",
+    "coords": { "x": 304, "y": -330 }
+  },
+  {
+    "id": "2017-2018",
+    "nombre": "Andrés Manuel López Obrador (2017 - 2018)",
+    "nombrecorto": "AMLO (2017 - 2018)",
+    "color": "#960000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwIiWjwkM",
+    "img": "amlo2017-2018.png",
+    "coords": { "x": 364, "y": -330 }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "amlo",
+    "nombre": "Andrés Manuel López Obrador",
+    "nombrecorto": "AMLO",
+    "color": "#701A1A",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwIiWjwkM",
+    "img": "amlo.png",
+    "coords": { "x": 94, "y": -330 },
+    "colorpalabras": "#b64a4e"
+  },
+  {
+    "id": "meade",
+    "nombre": "José Antonio Meade Kuribreña",
+    "nombrecorto": "Meade",
+    "color": "#ff0000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMiqhAoM",
+    "img": "meade.png",
+    "coords": { "x": 244, "y": -330 },
+    "colorpalabras": "#ff4751"
+  },
+  {
+    "id": "anaya",
+    "nombre": "Ricardo Anaya Cortés",
+    "nombrecorto": "Anaya",
+    "color": "#2e9dfc",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMjFjAoM",
+    "img": "anaya.png",
+    "coords": { "x": 390, "y": -330 },
+    "colorpalabras": "#70bafa"
+  },
+  {
+    "id": "bronco",
+    "nombre": "Jaime Rodríguez Calderón",
+    "nombrecorto": "Bronco",
+    "color": "#691459",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwO6GrgkM",
+    "img": "bronco.png",
+    "coords": { "x": 536, "y": -330 },
+    "colorpalabras": "#97598a"
+  }
+]

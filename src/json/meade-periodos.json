@@ -1,0 +1,33 @@
+[
+  {
+    "id": "2012-2015",
+    "nombre": "José Antonio Meade Kuribreña (2012 - 2015)",
+    "nombrecorto": "Meade (2012 - 2015)",
+    "color": "#ff0000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMiqhAoM",
+    "img": "meade2012-2015.png",
+    "coords": { "x": 244, "y": -330 }
+  },
+  {
+    "id": "2015-2016",
+    "nombre": "José Antonio Meade Kuribreña (2015 - 2016)",
+    "nombrecorto": "Meade (2015 - 2016)",
+    "color": "#ff0000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMiqhAoM",
+    "img": "meade2015-2016.png",
+    "coords": { "x": 304, "y": -330 },
+    "colorpalabras": "#ff4751"
+  },
+  {
+    "id": "2016-2018",
+    "nombre": "José Antonio Meade Kuribreña (2016 - 2018)",
+    "nombrecorto": "Meade (2016 - 2018)",
+    "color": "#ff0000",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMiqhAoM",
+    "img": "meade2016-2018.png",
+    "coords": { "x": 364, "y": -330 }
+  }
+]

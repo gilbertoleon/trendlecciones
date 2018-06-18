@@ -1,0 +1,4267 @@
+[
+  {
+    "periodo": "2017-10",
+    "nombrei": "October 2017",
+    "nombre": "Octubre 2017",
+    "combinaciones": {
+      "mancera": {
+        "1804": {
+          "mancera": 0
+        },
+        "1805": {
+          "mancera": 11
+        },
+        "1806": {
+          "mancera": 0
+        },
+        "1807": {
+          "mancera": 41
+        },
+        "1808": {
+          "mancera": 0
+        },
+        "1809": {
+          "mancera": 8
+        },
+        "1810": {
+          "mancera": 0
+        },
+        "1811": {
+          "mancera": 0
+        },
+        "1812": {
+          "mancera": 100
+        },
+        "1813": {
+          "mancera": 0
+        },
+        "1814": {
+          "mancera": 28
+        },
+        "1815": {
+          "mancera": 0
+        },
+        "1816": {
+          "mancera": 13
+        },
+        "1817": {
+          "mancera": 14
+        },
+        "1818": {
+          "mancera": 20
+        },
+        "1819": {
+          "mancera": 9
+        },
+        "1820": {
+          "mancera": 15
+        },
+        "1821": {
+          "mancera": 0
+        },
+        "1822": {
+          "mancera": 6
+        },
+        "1823": {
+          "mancera": 14
+        },
+        "1824": {
+          "mancera": 0
+        },
+        "1825": {
+          "mancera": 10
+        },
+        "1826": {
+          "mancera": 23
+        },
+        "1827": {
+          "mancera": 13
+        },
+        "1828": {
+          "mancera": 10
+        },
+        "1829": {
+          "mancera": 28
+        },
+        "1830": {
+          "mancera": 34
+        },
+        "1831": {
+          "mancera": 38
+        },
+        "1832": {
+          "mancera": 0
+        },
+        "1833": {
+          "mancera": 5
+        },
+        "1834": {
+          "mancera": 39
+        },
+        "1835": {
+          "mancera": 0
+        }
+      },
+      "moreno": {
+        "1804": {
+          "moreno": 30
+        },
+        "1805": {
+          "moreno": 4
+        },
+        "1806": {
+          "moreno": 49
+        },
+        "1807": {
+          "moreno": 0
+        },
+        "1808": {
+          "moreno": 0
+        },
+        "1809": {
+          "moreno": 0
+        },
+        "1810": {
+          "moreno": 15
+        },
+        "1811": {
+          "moreno": 77
+        },
+        "1812": {
+          "moreno": 18
+        },
+        "1813": {
+          "moreno": 19
+        },
+        "1814": {
+          "moreno": 0
+        },
+        "1815": {
+          "moreno": 0
+        },
+        "1816": {
+          "moreno": 10
+        },
+        "1817": {
+          "moreno": 8
+        },
+        "1818": {
+          "moreno": 4
+        },
+        "1819": {
+          "moreno": 14
+        },
+        "1820": {
+          "moreno": 24
+        },
+        "1821": {
+          "moreno": 44
+        },
+        "1822": {
+          "moreno": 5
+        },
+        "1823": {
+          "moreno": 11
+        },
+        "1824": {
+          "moreno": 100
+        },
+        "1825": {
+          "moreno": 22
+        },
+        "1826": {
+          "moreno": 0
+        },
+        "1827": {
+          "moreno": 0
+        },
+        "1828": {
+          "moreno": 16
+        },
+        "1829": {
+          "moreno": 7
+        },
+        "1830": {
+          "moreno": 0
+        },
+        "1831": {
+          "moreno": 22
+        },
+        "1832": {
+          "moreno": 70
+        },
+        "1833": {
+          "moreno": 30
+        },
+        "1834": {
+          "moreno": 15
+        },
+        "1835": {
+          "moreno": 0
+        }
+      },
+      "mancera-moreno": {
+        "1804": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1805": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1807": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1808": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1809": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1810": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1812": {
+          "mancera": 81,
+          "moreno": 19
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1814": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1815": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1816": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1817": {
+          "mancera": 56,
+          "moreno": 44
+        },
+        "1818": {
+          "mancera": 80,
+          "moreno": 20
+        },
+        "1819": {
+          "mancera": 33,
+          "moreno": 67
+        },
+        "1820": {
+          "mancera": 33,
+          "moreno": 67
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1822": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1823": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1824": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1825": {
+          "mancera": 25,
+          "moreno": 75
+        },
+        "1826": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1827": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1828": {
+          "mancera": 33,
+          "moreno": 67
+        },
+        "1829": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1830": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1831": {
+          "mancera": 57,
+          "moreno": 43
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1833": {
+          "mancera": 11,
+          "moreno": 89
+        },
+        "1834": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 0
+        }
+      },
+      "anaya": {
+        "1804": {
+          "anaya": 50
+        },
+        "1805": {
+          "anaya": 29
+        },
+        "1806": {
+          "anaya": 21
+        },
+        "1807": {
+          "anaya": 52
+        },
+        "1808": {
+          "anaya": 25
+        },
+        "1809": {
+          "anaya": 35
+        },
+        "1810": {
+          "anaya": 50
+        },
+        "1811": {
+          "anaya": 32
+        },
+        "1812": {
+          "anaya": 49
+        },
+        "1813": {
+          "anaya": 31
+        },
+        "1814": {
+          "anaya": 22
+        },
+        "1815": {
+          "anaya": 10
+        },
+        "1816": {
+          "anaya": 50
+        },
+        "1817": {
+          "anaya": 21
+        },
+        "1818": {
+          "anaya": 30
+        },
+        "1819": {
+          "anaya": 12
+        },
+        "1820": {
+          "anaya": 10
+        },
+        "1821": {
+          "anaya": 37
+        },
+        "1822": {
+          "anaya": 48
+        },
+        "1823": {
+          "anaya": 46
+        },
+        "1824": {
+          "anaya": 44
+        },
+        "1825": {
+          "anaya": 100
+        },
+        "1826": {
+          "anaya": 38
+        },
+        "1827": {
+          "anaya": 25
+        },
+        "1828": {
+          "anaya": 53
+        },
+        "1829": {
+          "anaya": 37
+        },
+        "1830": {
+          "anaya": 22
+        },
+        "1831": {
+          "anaya": 37
+        },
+        "1832": {
+          "anaya": 40
+        },
+        "1833": {
+          "anaya": 28
+        },
+        "1834": {
+          "anaya": 6
+        },
+        "1835": {
+          "anaya": 36
+        }
+      },
+      "anaya-mancera": {
+        "1804": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1805": {
+          "mancera": 20,
+          "anaya": 80
+        },
+        "1806": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1808": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1809": {
+          "mancera": 12,
+          "anaya": 88
+        },
+        "1810": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1811": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 57,
+          "anaya": 43
+        },
+        "1813": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1814": {
+          "mancera": 45,
+          "anaya": 55
+        },
+        "1815": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "mancera": 14,
+          "anaya": 86
+        },
+        "1817": {
+          "mancera": 29,
+          "anaya": 71
+        },
+        "1818": {
+          "mancera": 30,
+          "anaya": 70
+        },
+        "1819": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1820": {
+          "mancera": 50,
+          "anaya": 50
+        },
+        "1821": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "mancera": 7,
+          "anaya": 93
+        },
+        "1823": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1824": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1825": {
+          "mancera": 5,
+          "anaya": 95
+        },
+        "1826": {
+          "mancera": 28,
+          "anaya": 72
+        },
+        "1827": {
+          "mancera": 25,
+          "anaya": 75
+        },
+        "1828": {
+          "mancera": 11,
+          "anaya": 89
+        },
+        "1829": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1830": {
+          "mancera": 50,
+          "anaya": 50
+        },
+        "1831": {
+          "mancera": 40,
+          "anaya": 60
+        },
+        "1832": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 10,
+          "anaya": 90
+        },
+        "1834": {
+          "mancera": 80,
+          "anaya": 20
+        },
+        "1835": {
+          "mancera": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-moreno": {
+        "1804": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1805": {
+          "moreno": 11,
+          "anaya": 89
+        },
+        "1806": {
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1807": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1809": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1810": {
+          "moreno": 19,
+          "anaya": 81
+        },
+        "1811": {
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1812": {
+          "moreno": 23,
+          "anaya": 77
+        },
+        "1813": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1814": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1815": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "moreno": 14,
+          "anaya": 86
+        },
+        "1817": {
+          "moreno": 24,
+          "anaya": 76
+        },
+        "1818": {
+          "moreno": 9,
+          "anaya": 91
+        },
+        "1819": {
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1820": {
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1821": {
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1822": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1823": {
+          "moreno": 16,
+          "anaya": 84
+        },
+        "1824": {
+          "moreno": 66,
+          "anaya": 34
+        },
+        "1825": {
+          "moreno": 15,
+          "anaya": 85
+        },
+        "1826": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1827": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1828": {
+          "moreno": 19,
+          "anaya": 81
+        },
+        "1829": {
+          "moreno": 14,
+          "anaya": 86
+        },
+        "1830": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1831": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1832": {
+          "moreno": 60,
+          "anaya": 40
+        },
+        "1833": {
+          "moreno": 47,
+          "anaya": 53
+        },
+        "1834": {
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1835": {
+          "moreno": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-mancera-moreno": {
+        "1804": {
+          "mancera": 0,
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1805": {
+          "mancera": 18,
+          "moreno": 9,
+          "anaya": 73
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1807": {
+          "mancera": 33,
+          "moreno": 0,
+          "anaya": 67
+        },
+        "1808": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1809": {
+          "mancera": 12,
+          "moreno": 0,
+          "anaya": 88
+        },
+        "1810": {
+          "mancera": 0,
+          "moreno": 19,
+          "anaya": 81
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1812": {
+          "mancera": 51,
+          "moreno": 11,
+          "anaya": 38
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1814": {
+          "mancera": 45,
+          "moreno": 0,
+          "anaya": 55
+        },
+        "1815": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "mancera": 12,
+          "moreno": 12,
+          "anaya": 76
+        },
+        "1817": {
+          "mancera": 23,
+          "moreno": 19,
+          "anaya": 58
+        },
+        "1818": {
+          "mancera": 28,
+          "moreno": 6,
+          "anaya": 66
+        },
+        "1819": {
+          "mancera": 20,
+          "moreno": 40,
+          "anaya": 40
+        },
+        "1820": {
+          "mancera": 25,
+          "moreno": 50,
+          "anaya": 25
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1822": {
+          "mancera": 7,
+          "moreno": 7,
+          "anaya": 86
+        },
+        "1823": {
+          "mancera": 14,
+          "moreno": 14,
+          "anaya": 72
+        },
+        "1824": {
+          "mancera": 0,
+          "moreno": 66,
+          "anaya": 34
+        },
+        "1825": {
+          "mancera": 5,
+          "moreno": 14,
+          "anaya": 81
+        },
+        "1826": {
+          "mancera": 28,
+          "moreno": 0,
+          "anaya": 72
+        },
+        "1827": {
+          "mancera": 25,
+          "moreno": 0,
+          "anaya": 75
+        },
+        "1828": {
+          "mancera": 9,
+          "moreno": 18,
+          "anaya": 73
+        },
+        "1829": {
+          "mancera": 30,
+          "moreno": 10,
+          "anaya": 60
+        },
+        "1830": {
+          "mancera": 50,
+          "moreno": 0,
+          "anaya": 50
+        },
+        "1831": {
+          "mancera": 31,
+          "moreno": 23,
+          "anaya": 46
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 60,
+          "anaya": 40
+        },
+        "1833": {
+          "mancera": 5,
+          "moreno": 44,
+          "anaya": 51
+        },
+        "1834": {
+          "mancera": 58,
+          "moreno": 28,
+          "anaya": 14
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        }
+      }
+    }
+  },
+  {
+    "periodo": "2017-11",
+    "nombrei": "November 2017",
+    "nombre": "Noviembre 2017",
+    "combinaciones": {
+      "mancera": {
+        "1804": {
+          "mancera": 17
+        },
+        "1805": {
+          "mancera": 0
+        },
+        "1806": {
+          "mancera": 0
+        },
+        "1807": {
+          "mancera": 0
+        },
+        "1808": {
+          "mancera": 23
+        },
+        "1809": {
+          "mancera": 7
+        },
+        "1810": {
+          "mancera": 26
+        },
+        "1811": {
+          "mancera": 0
+        },
+        "1812": {
+          "mancera": 100
+        },
+        "1813": {
+          "mancera": 0
+        },
+        "1814": {
+          "mancera": 10
+        },
+        "1815": {
+          "mancera": 0
+        },
+        "1816": {
+          "mancera": 12
+        },
+        "1817": {
+          "mancera": 10
+        },
+        "1818": {
+          "mancera": 19
+        },
+        "1819": {
+          "mancera": 25
+        },
+        "1820": {
+          "mancera": 36
+        },
+        "1821": {
+          "mancera": 0
+        },
+        "1822": {
+          "mancera": 20
+        },
+        "1823": {
+          "mancera": 48
+        },
+        "1824": {
+          "mancera": 4
+        },
+        "1825": {
+          "mancera": 8
+        },
+        "1826": {
+          "mancera": 0
+        },
+        "1827": {
+          "mancera": 11
+        },
+        "1828": {
+          "mancera": 28
+        },
+        "1829": {
+          "mancera": 31
+        },
+        "1830": {
+          "mancera": 0
+        },
+        "1831": {
+          "mancera": 8
+        },
+        "1832": {
+          "mancera": 0
+        },
+        "1833": {
+          "mancera": 8
+        },
+        "1834": {
+          "mancera": 9
+        },
+        "1835": {
+          "mancera": 0
+        }
+      },
+      "moreno": {
+        "1804": {
+          "moreno": 0
+        },
+        "1805": {
+          "moreno": 24
+        },
+        "1806": {
+          "moreno": 0
+        },
+        "1807": {
+          "moreno": 81
+        },
+        "1808": {
+          "moreno": 14
+        },
+        "1809": {
+          "moreno": 0
+        },
+        "1810": {
+          "moreno": 0
+        },
+        "1811": {
+          "moreno": 95
+        },
+        "1812": {
+          "moreno": 40
+        },
+        "1813": {
+          "moreno": 25
+        },
+        "1814": {
+          "moreno": 6
+        },
+        "1815": {
+          "moreno": 0
+        },
+        "1816": {
+          "moreno": 100
+        },
+        "1817": {
+          "moreno": 9
+        },
+        "1818": {
+          "moreno": 13
+        },
+        "1819": {
+          "moreno": 10
+        },
+        "1820": {
+          "moreno": 15
+        },
+        "1821": {
+          "moreno": 31
+        },
+        "1822": {
+          "moreno": 14
+        },
+        "1823": {
+          "moreno": 0
+        },
+        "1824": {
+          "moreno": 75
+        },
+        "1825": {
+          "moreno": 42
+        },
+        "1826": {
+          "moreno": 12
+        },
+        "1827": {
+          "moreno": 57
+        },
+        "1828": {
+          "moreno": 12
+        },
+        "1829": {
+          "moreno": 19
+        },
+        "1830": {
+          "moreno": 0
+        },
+        "1831": {
+          "moreno": 31
+        },
+        "1832": {
+          "moreno": 0
+        },
+        "1833": {
+          "moreno": 15
+        },
+        "1834": {
+          "moreno": 23
+        },
+        "1835": {
+          "moreno": 59
+        }
+      },
+      "mancera-moreno": {
+        "1804": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1805": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1808": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1809": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1810": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1812": {
+          "mancera": 76,
+          "moreno": 24
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1814": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1815": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1816": {
+          "mancera": 12,
+          "moreno": 88
+        },
+        "1817": {
+          "mancera": 57,
+          "moreno": 43
+        },
+        "1818": {
+          "mancera": 65,
+          "moreno": 35
+        },
+        "1819": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1820": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1822": {
+          "mancera": 64,
+          "moreno": 36
+        },
+        "1823": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1824": {
+          "mancera": 6,
+          "moreno": 94
+        },
+        "1825": {
+          "mancera": 20,
+          "moreno": 80
+        },
+        "1826": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1827": {
+          "mancera": 20,
+          "moreno": 80
+        },
+        "1828": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1829": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1830": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1831": {
+          "mancera": 25,
+          "moreno": 75
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1833": {
+          "mancera": 40,
+          "moreno": 60
+        },
+        "1834": {
+          "mancera": 33,
+          "moreno": 67
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 100
+        }
+      },
+      "anaya": {
+        "1804": {
+          "anaya": 58
+        },
+        "1805": {
+          "anaya": 17
+        },
+        "1806": {
+          "anaya": 45
+        },
+        "1807": {
+          "anaya": 0
+        },
+        "1808": {
+          "anaya": 59
+        },
+        "1809": {
+          "anaya": 23
+        },
+        "1810": {
+          "anaya": 30
+        },
+        "1811": {
+          "anaya": 0
+        },
+        "1812": {
+          "anaya": 55
+        },
+        "1813": {
+          "anaya": 35
+        },
+        "1814": {
+          "anaya": 26
+        },
+        "1815": {
+          "anaya": 75
+        },
+        "1816": {
+          "anaya": 100
+        },
+        "1817": {
+          "anaya": 33
+        },
+        "1818": {
+          "anaya": 25
+        },
+        "1819": {
+          "anaya": 0
+        },
+        "1820": {
+          "anaya": 63
+        },
+        "1821": {
+          "anaya": 43
+        },
+        "1822": {
+          "anaya": 39
+        },
+        "1823": {
+          "anaya": 42
+        },
+        "1824": {
+          "anaya": 45
+        },
+        "1825": {
+          "anaya": 73
+        },
+        "1826": {
+          "anaya": 51
+        },
+        "1827": {
+          "anaya": 59
+        },
+        "1828": {
+          "anaya": 33
+        },
+        "1829": {
+          "anaya": 54
+        },
+        "1830": {
+          "anaya": 0
+        },
+        "1831": {
+          "anaya": 29
+        },
+        "1832": {
+          "anaya": 47
+        },
+        "1833": {
+          "anaya": 36
+        },
+        "1834": {
+          "anaya": 63
+        },
+        "1835": {
+          "anaya": 41
+        }
+      },
+      "anaya-mancera": {
+        "1804": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1805": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1806": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "mancera": 0,
+          "anaya": 0
+        },
+        "1808": {
+          "mancera": 40,
+          "anaya": 60
+        },
+        "1809": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1810": {
+          "mancera": 60,
+          "anaya": 40
+        },
+        "1811": {
+          "mancera": 0,
+          "anaya": 0
+        },
+        "1812": {
+          "mancera": 76,
+          "anaya": 24
+        },
+        "1813": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1814": {
+          "mancera": 40,
+          "anaya": 60
+        },
+        "1815": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1817": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1818": {
+          "mancera": 57,
+          "anaya": 43
+        },
+        "1819": {
+          "mancera": 100,
+          "anaya": 0
+        },
+        "1820": {
+          "mancera": 50,
+          "anaya": 50
+        },
+        "1821": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "mancera": 47,
+          "anaya": 53
+        },
+        "1823": {
+          "mancera": 67,
+          "anaya": 33
+        },
+        "1824": {
+          "mancera": 14,
+          "anaya": 86
+        },
+        "1825": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1826": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1827": {
+          "mancera": 25,
+          "anaya": 75
+        },
+        "1828": {
+          "mancera": 60,
+          "anaya": 40
+        },
+        "1829": {
+          "mancera": 50,
+          "anaya": 50
+        },
+        "1830": {
+          "mancera": 0,
+          "anaya": 0
+        },
+        "1831": {
+          "mancera": 33,
+          "anaya": 67
+        },
+        "1832": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 29,
+          "anaya": 71
+        },
+        "1834": {
+          "mancera": 20,
+          "anaya": 80
+        },
+        "1835": {
+          "mancera": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-moreno": {
+        "1804": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1805": {
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1806": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "moreno": 100,
+          "anaya": 0
+        },
+        "1808": {
+          "moreno": 25,
+          "anaya": 75
+        },
+        "1809": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1810": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1811": {
+          "moreno": 100,
+          "anaya": 0
+        },
+        "1812": {
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1813": {
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1814": {
+          "moreno": 25,
+          "anaya": 75
+        },
+        "1815": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "moreno": 59,
+          "anaya": 41
+        },
+        "1817": {
+          "moreno": 27,
+          "anaya": 73
+        },
+        "1818": {
+          "moreno": 41,
+          "anaya": 59
+        },
+        "1819": {
+          "moreno": 100,
+          "anaya": 0
+        },
+        "1820": {
+          "moreno": 25,
+          "anaya": 75
+        },
+        "1821": {
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1822": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1823": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1824": {
+          "moreno": 70,
+          "anaya": 30
+        },
+        "1825": {
+          "moreno": 45,
+          "anaya": 55
+        },
+        "1826": {
+          "moreno": 25,
+          "anaya": 75
+        },
+        "1827": {
+          "moreno": 57,
+          "anaya": 43
+        },
+        "1828": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1829": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1830": {
+          "moreno": 0,
+          "anaya": 0
+        },
+        "1831": {
+          "moreno": 60,
+          "anaya": 40
+        },
+        "1832": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "moreno": 38,
+          "anaya": 62
+        },
+        "1834": {
+          "moreno": 33,
+          "anaya": 67
+        },
+        "1835": {
+          "moreno": 67,
+          "anaya": 33
+        }
+      },
+      "anaya-mancera-moreno": {
+        "1804": {
+          "mancera": 33,
+          "moreno": 0,
+          "anaya": 67
+        },
+        "1805": {
+          "mancera": 0,
+          "moreno": 67,
+          "anaya": 33
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 100,
+          "anaya": 0
+        },
+        "1808": {
+          "mancera": 33,
+          "moreno": 17,
+          "anaya": 50
+        },
+        "1809": {
+          "mancera": 33,
+          "moreno": 0,
+          "anaya": 67
+        },
+        "1810": {
+          "mancera": 60,
+          "moreno": 0,
+          "anaya": 40
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 100,
+          "anaya": 0
+        },
+        "1812": {
+          "mancera": 62,
+          "moreno": 19,
+          "anaya": 19
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1814": {
+          "mancera": 33,
+          "moreno": 17,
+          "anaya": 50
+        },
+        "1815": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "mancera": 7,
+          "moreno": 55,
+          "anaya": 38
+        },
+        "1817": {
+          "mancera": 27,
+          "moreno": 20,
+          "anaya": 53
+        },
+        "1818": {
+          "mancera": 44,
+          "moreno": 23,
+          "anaya": 33
+        },
+        "1819": {
+          "mancera": 75,
+          "moreno": 25,
+          "anaya": 0
+        },
+        "1820": {
+          "mancera": 43,
+          "moreno": 14,
+          "anaya": 43
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 50,
+          "anaya": 50
+        },
+        "1822": {
+          "mancera": 37,
+          "moreno": 21,
+          "anaya": 42
+        },
+        "1823": {
+          "mancera": 67,
+          "moreno": 0,
+          "anaya": 33
+        },
+        "1824": {
+          "mancera": 4,
+          "moreno": 67,
+          "anaya": 29
+        },
+        "1825": {
+          "mancera": 10,
+          "moreno": 40,
+          "anaya": 50
+        },
+        "1826": {
+          "mancera": 0,
+          "moreno": 25,
+          "anaya": 75
+        },
+        "1827": {
+          "mancera": 12,
+          "moreno": 51,
+          "anaya": 37
+        },
+        "1828": {
+          "mancera": 50,
+          "moreno": 17,
+          "anaya": 33
+        },
+        "1829": {
+          "mancera": 40,
+          "moreno": 20,
+          "anaya": 40
+        },
+        "1830": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 0
+        },
+        "1831": {
+          "mancera": 16,
+          "moreno": 51,
+          "anaya": 33
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 20,
+          "moreno": 30,
+          "anaya": 50
+        },
+        "1834": {
+          "mancera": 14,
+          "moreno": 29,
+          "anaya": 57
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 67,
+          "anaya": 33
+        }
+      }
+    }
+  },
+  {
+    "periodo": "2017-12",
+    "nombrei": "December 2017",
+    "nombre": "Diciembre 2017",
+    "combinaciones": {
+      "mancera": {
+        "1804": {
+          "mancera": 17
+        },
+        "1805": {
+          "mancera": 34
+        },
+        "1806": {
+          "mancera": 0
+        },
+        "1807": {
+          "mancera": 0
+        },
+        "1808": {
+          "mancera": 36
+        },
+        "1809": {
+          "mancera": 13
+        },
+        "1810": {
+          "mancera": 23
+        },
+        "1811": {
+          "mancera": 0
+        },
+        "1812": {
+          "mancera": 100
+        },
+        "1813": {
+          "mancera": 40
+        },
+        "1814": {
+          "mancera": 20
+        },
+        "1815": {
+          "mancera": 14
+        },
+        "1816": {
+          "mancera": 25
+        },
+        "1817": {
+          "mancera": 21
+        },
+        "1818": {
+          "mancera": 37
+        },
+        "1819": {
+          "mancera": 24
+        },
+        "1820": {
+          "mancera": 23
+        },
+        "1821": {
+          "mancera": 24
+        },
+        "1822": {
+          "mancera": 17
+        },
+        "1823": {
+          "mancera": 35
+        },
+        "1824": {
+          "mancera": 73
+        },
+        "1825": {
+          "mancera": 18
+        },
+        "1826": {
+          "mancera": 17
+        },
+        "1827": {
+          "mancera": 11
+        },
+        "1828": {
+          "mancera": 72
+        },
+        "1829": {
+          "mancera": 23
+        },
+        "1830": {
+          "mancera": 15
+        },
+        "1831": {
+          "mancera": 16
+        },
+        "1832": {
+          "mancera": 0
+        },
+        "1833": {
+          "mancera": 16
+        },
+        "1834": {
+          "mancera": 19
+        },
+        "1835": {
+          "mancera": 0
+        }
+      },
+      "moreno": {
+        "1804": {
+          "moreno": 0
+        },
+        "1805": {
+          "moreno": 9
+        },
+        "1806": {
+          "moreno": 15
+        },
+        "1807": {
+          "moreno": 0
+        },
+        "1808": {
+          "moreno": 7
+        },
+        "1809": {
+          "moreno": 8
+        },
+        "1810": {
+          "moreno": 5
+        },
+        "1811": {
+          "moreno": 0
+        },
+        "1812": {
+          "moreno": 12
+        },
+        "1813": {
+          "moreno": 0
+        },
+        "1814": {
+          "moreno": 3
+        },
+        "1815": {
+          "moreno": 0
+        },
+        "1816": {
+          "moreno": 7
+        },
+        "1817": {
+          "moreno": 11
+        },
+        "1818": {
+          "moreno": 6
+        },
+        "1819": {
+          "moreno": 5
+        },
+        "1820": {
+          "moreno": 14
+        },
+        "1821": {
+          "moreno": 15
+        },
+        "1822": {
+          "moreno": 2
+        },
+        "1823": {
+          "moreno": 0
+        },
+        "1824": {
+          "moreno": 100
+        },
+        "1825": {
+          "moreno": 11
+        },
+        "1826": {
+          "moreno": 11
+        },
+        "1827": {
+          "moreno": 14
+        },
+        "1828": {
+          "moreno": 5
+        },
+        "1829": {
+          "moreno": 9
+        },
+        "1830": {
+          "moreno": 9
+        },
+        "1831": {
+          "moreno": 10
+        },
+        "1832": {
+          "moreno": 0
+        },
+        "1833": {
+          "moreno": 17
+        },
+        "1834": {
+          "moreno": 0
+        },
+        "1835": {
+          "moreno": 14
+        }
+      },
+      "mancera-moreno": {
+        "1804": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1805": {
+          "mancera": 70,
+          "moreno": 30
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1808": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1809": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1810": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1812": {
+          "mancera": 84,
+          "moreno": 16
+        },
+        "1813": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1814": {
+          "mancera": 80,
+          "moreno": 20
+        },
+        "1815": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1816": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1817": {
+          "mancera": 53,
+          "moreno": 47
+        },
+        "1818": {
+          "mancera": 78,
+          "moreno": 22
+        },
+        "1819": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1820": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1821": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1822": {
+          "mancera": 86,
+          "moreno": 14
+        },
+        "1823": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1824": {
+          "mancera": 31,
+          "moreno": 69
+        },
+        "1825": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1826": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1827": {
+          "mancera": 33,
+          "moreno": 67
+        },
+        "1828": {
+          "mancera": 89,
+          "moreno": 11
+        },
+        "1829": {
+          "mancera": 60,
+          "moreno": 40
+        },
+        "1830": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1831": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1833": {
+          "mancera": 36,
+          "moreno": 64
+        },
+        "1834": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 100
+        }
+      },
+      "anaya": {
+        "1804": {
+          "anaya": 63
+        },
+        "1805": {
+          "anaya": 46
+        },
+        "1806": {
+          "anaya": 55
+        },
+        "1807": {
+          "anaya": 12
+        },
+        "1808": {
+          "anaya": 30
+        },
+        "1809": {
+          "anaya": 61
+        },
+        "1810": {
+          "anaya": 37
+        },
+        "1811": {
+          "anaya": 27
+        },
+        "1812": {
+          "anaya": 55
+        },
+        "1813": {
+          "anaya": 36
+        },
+        "1814": {
+          "anaya": 52
+        },
+        "1815": {
+          "anaya": 21
+        },
+        "1816": {
+          "anaya": 54
+        },
+        "1817": {
+          "anaya": 36
+        },
+        "1818": {
+          "anaya": 47
+        },
+        "1819": {
+          "anaya": 48
+        },
+        "1820": {
+          "anaya": 47
+        },
+        "1821": {
+          "anaya": 44
+        },
+        "1822": {
+          "anaya": 30
+        },
+        "1823": {
+          "anaya": 42
+        },
+        "1824": {
+          "anaya": 50
+        },
+        "1825": {
+          "anaya": 100
+        },
+        "1826": {
+          "anaya": 35
+        },
+        "1827": {
+          "anaya": 54
+        },
+        "1828": {
+          "anaya": 23
+        },
+        "1829": {
+          "anaya": 31
+        },
+        "1830": {
+          "anaya": 51
+        },
+        "1831": {
+          "anaya": 52
+        },
+        "1832": {
+          "anaya": 21
+        },
+        "1833": {
+          "anaya": 49
+        },
+        "1834": {
+          "anaya": 35
+        },
+        "1835": {
+          "anaya": 17
+        }
+      },
+      "anaya-mancera": {
+        "1804": {
+          "mancera": 8,
+          "anaya": 92
+        },
+        "1805": {
+          "mancera": 21,
+          "anaya": 79
+        },
+        "1806": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "mancera": 29,
+          "anaya": 71
+        },
+        "1809": {
+          "mancera": 7,
+          "anaya": 93
+        },
+        "1810": {
+          "mancera": 18,
+          "anaya": 82
+        },
+        "1811": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 39,
+          "anaya": 61
+        },
+        "1813": {
+          "mancera": 28,
+          "anaya": 72
+        },
+        "1814": {
+          "mancera": 11,
+          "anaya": 89
+        },
+        "1815": {
+          "mancera": 19,
+          "anaya": 81
+        },
+        "1816": {
+          "mancera": 14,
+          "anaya": 86
+        },
+        "1817": {
+          "mancera": 17,
+          "anaya": 83
+        },
+        "1818": {
+          "mancera": 22,
+          "anaya": 78
+        },
+        "1819": {
+          "mancera": 15,
+          "anaya": 85
+        },
+        "1820": {
+          "mancera": 15,
+          "anaya": 85
+        },
+        "1821": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1822": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1823": {
+          "mancera": 22,
+          "anaya": 78
+        },
+        "1824": {
+          "mancera": 34,
+          "anaya": 66
+        },
+        "1825": {
+          "mancera": 5,
+          "anaya": 95
+        },
+        "1826": {
+          "mancera": 15,
+          "anaya": 85
+        },
+        "1827": {
+          "mancera": 7,
+          "anaya": 93
+        },
+        "1828": {
+          "mancera": 53,
+          "anaya": 47
+        },
+        "1829": {
+          "mancera": 21,
+          "anaya": 79
+        },
+        "1830": {
+          "mancera": 9,
+          "anaya": 91
+        },
+        "1831": {
+          "mancera": 9,
+          "anaya": 91
+        },
+        "1832": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 10,
+          "anaya": 90
+        },
+        "1834": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1835": {
+          "mancera": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-moreno": {
+        "1804": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1805": {
+          "moreno": 10,
+          "anaya": 90
+        },
+        "1806": {
+          "moreno": 14,
+          "anaya": 86
+        },
+        "1807": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "moreno": 12,
+          "anaya": 88
+        },
+        "1809": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1810": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1811": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "moreno": 11,
+          "anaya": 89
+        },
+        "1813": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1814": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1815": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1817": {
+          "moreno": 15,
+          "anaya": 85
+        },
+        "1818": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1819": {
+          "moreno": 5,
+          "anaya": 95
+        },
+        "1820": {
+          "moreno": 15,
+          "anaya": 85
+        },
+        "1821": {
+          "moreno": 16,
+          "anaya": 84
+        },
+        "1822": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1823": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1824": {
+          "moreno": 54,
+          "anaya": 46
+        },
+        "1825": {
+          "moreno": 5,
+          "anaya": 95
+        },
+        "1826": {
+          "moreno": 15,
+          "anaya": 85
+        },
+        "1827": {
+          "moreno": 13,
+          "anaya": 87
+        },
+        "1828": {
+          "moreno": 12,
+          "anaya": 88
+        },
+        "1829": {
+          "moreno": 15,
+          "anaya": 85
+        },
+        "1830": {
+          "moreno": 9,
+          "anaya": 91
+        },
+        "1831": {
+          "moreno": 9,
+          "anaya": 91
+        },
+        "1832": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "moreno": 17,
+          "anaya": 83
+        },
+        "1834": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1835": {
+          "moreno": 33,
+          "anaya": 67
+        }
+      },
+      "anaya-mancera-moreno": {
+        "1804": {
+          "mancera": 8,
+          "moreno": 0,
+          "anaya": 92
+        },
+        "1805": {
+          "mancera": 19,
+          "moreno": 8,
+          "anaya": 73
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 14,
+          "anaya": 86
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "mancera": 27,
+          "moreno": 9,
+          "anaya": 64
+        },
+        "1809": {
+          "mancera": 7,
+          "moreno": 6,
+          "anaya": 87
+        },
+        "1810": {
+          "mancera": 18,
+          "moreno": 5,
+          "anaya": 77
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 36,
+          "moreno": 7,
+          "anaya": 57
+        },
+        "1813": {
+          "mancera": 28,
+          "moreno": 0,
+          "anaya": 72
+        },
+        "1814": {
+          "mancera": 12,
+          "moreno": 2,
+          "anaya": 86
+        },
+        "1815": {
+          "mancera": 19,
+          "moreno": 0,
+          "anaya": 81
+        },
+        "1816": {
+          "mancera": 13,
+          "moreno": 6,
+          "anaya": 81
+        },
+        "1817": {
+          "mancera": 15,
+          "moreno": 13,
+          "anaya": 72
+        },
+        "1818": {
+          "mancera": 21,
+          "moreno": 5,
+          "anaya": 74
+        },
+        "1819": {
+          "mancera": 14,
+          "moreno": 5,
+          "anaya": 81
+        },
+        "1820": {
+          "mancera": 13,
+          "moreno": 13,
+          "anaya": 74
+        },
+        "1821": {
+          "mancera": 14,
+          "moreno": 14,
+          "anaya": 72
+        },
+        "1822": {
+          "mancera": 16,
+          "moreno": 2,
+          "anaya": 82
+        },
+        "1823": {
+          "mancera": 22,
+          "moreno": 0,
+          "anaya": 78
+        },
+        "1824": {
+          "mancera": 19,
+          "moreno": 44,
+          "anaya": 37
+        },
+        "1825": {
+          "mancera": 6,
+          "moreno": 5,
+          "anaya": 89
+        },
+        "1826": {
+          "mancera": 13,
+          "moreno": 13,
+          "anaya": 74
+        },
+        "1827": {
+          "mancera": 6,
+          "moreno": 12,
+          "anaya": 82
+        },
+        "1828": {
+          "mancera": 50,
+          "moreno": 6,
+          "anaya": 44
+        },
+        "1829": {
+          "mancera": 18,
+          "moreno": 12,
+          "anaya": 70
+        },
+        "1830": {
+          "mancera": 9,
+          "moreno": 9,
+          "anaya": 82
+        },
+        "1831": {
+          "mancera": 8,
+          "moreno": 9,
+          "anaya": 83
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 9,
+          "moreno": 15,
+          "anaya": 76
+        },
+        "1834": {
+          "mancera": 16,
+          "moreno": 0,
+          "anaya": 84
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 33,
+          "anaya": 67
+        }
+      }
+    }
+  },
+  {
+    "periodo": "2018-01",
+    "nombrei": "January 2018",
+    "nombre": "Enero 2018",
+    "combinaciones": {
+      "mancera": {
+        "1804": {
+          "mancera": 0
+        },
+        "1805": {
+          "mancera": 0
+        },
+        "1806": {
+          "mancera": 0
+        },
+        "1807": {
+          "mancera": 0
+        },
+        "1808": {
+          "mancera": 34
+        },
+        "1809": {
+          "mancera": 29
+        },
+        "1810": {
+          "mancera": 0
+        },
+        "1811": {
+          "mancera": 0
+        },
+        "1812": {
+          "mancera": 100
+        },
+        "1813": {
+          "mancera": 0
+        },
+        "1814": {
+          "mancera": 0
+        },
+        "1815": {
+          "mancera": 40
+        },
+        "1816": {
+          "mancera": 33
+        },
+        "1817": {
+          "mancera": 20
+        },
+        "1818": {
+          "mancera": 31
+        },
+        "1819": {
+          "mancera": 12
+        },
+        "1820": {
+          "mancera": 17
+        },
+        "1821": {
+          "mancera": 0
+        },
+        "1822": {
+          "mancera": 27
+        },
+        "1823": {
+          "mancera": 17
+        },
+        "1824": {
+          "mancera": 20
+        },
+        "1825": {
+          "mancera": 0
+        },
+        "1826": {
+          "mancera": 25
+        },
+        "1827": {
+          "mancera": 0
+        },
+        "1828": {
+          "mancera": 0
+        },
+        "1829": {
+          "mancera": 23
+        },
+        "1830": {
+          "mancera": 22
+        },
+        "1831": {
+          "mancera": 33
+        },
+        "1832": {
+          "mancera": 0
+        },
+        "1833": {
+          "mancera": 22
+        },
+        "1834": {
+          "mancera": 14
+        },
+        "1835": {
+          "mancera": 0
+        }
+      },
+      "moreno": {
+        "1804": {
+          "moreno": 0
+        },
+        "1805": {
+          "moreno": 7
+        },
+        "1806": {
+          "moreno": 0
+        },
+        "1807": {
+          "moreno": 0
+        },
+        "1808": {
+          "moreno": 8
+        },
+        "1809": {
+          "moreno": 0
+        },
+        "1810": {
+          "moreno": 0
+        },
+        "1811": {
+          "moreno": 0
+        },
+        "1812": {
+          "moreno": 9
+        },
+        "1813": {
+          "moreno": 14
+        },
+        "1814": {
+          "moreno": 3
+        },
+        "1815": {
+          "moreno": 0
+        },
+        "1816": {
+          "moreno": 16
+        },
+        "1817": {
+          "moreno": 5
+        },
+        "1818": {
+          "moreno": 5
+        },
+        "1819": {
+          "moreno": 0
+        },
+        "1820": {
+          "moreno": 9
+        },
+        "1821": {
+          "moreno": 0
+        },
+        "1822": {
+          "moreno": 12
+        },
+        "1823": {
+          "moreno": 0
+        },
+        "1824": {
+          "moreno": 100
+        },
+        "1825": {
+          "moreno": 6
+        },
+        "1826": {
+          "moreno": 6
+        },
+        "1827": {
+          "moreno": 0
+        },
+        "1828": {
+          "moreno": 13
+        },
+        "1829": {
+          "moreno": 33
+        },
+        "1830": {
+          "moreno": 0
+        },
+        "1831": {
+          "moreno": 0
+        },
+        "1832": {
+          "moreno": 19
+        },
+        "1833": {
+          "moreno": 31
+        },
+        "1834": {
+          "moreno": 7
+        },
+        "1835": {
+          "moreno": 17
+        }
+      },
+      "mancera-moreno": {
+        "1804": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1805": {
+          "mancera": 33,
+          "moreno": 67
+        },
+        "1806": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1808": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1809": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1810": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1812": {
+          "mancera": 87,
+          "moreno": 13
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1814": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1815": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1816": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1817": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1818": {
+          "mancera": 80,
+          "moreno": 20
+        },
+        "1819": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1820": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1822": {
+          "mancera": 40,
+          "moreno": 60
+        },
+        "1823": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1824": {
+          "mancera": 14,
+          "moreno": 86
+        },
+        "1825": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1826": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1827": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1828": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1829": {
+          "mancera": 54,
+          "moreno": 46
+        },
+        "1830": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1831": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1832": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1833": {
+          "mancera": 15,
+          "moreno": 85
+        },
+        "1834": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 100
+        }
+      },
+      "anaya": {
+        "1804": {
+          "anaya": 53
+        },
+        "1805": {
+          "anaya": 81
+        },
+        "1806": {
+          "anaya": 43
+        },
+        "1807": {
+          "anaya": 27
+        },
+        "1808": {
+          "anaya": 32
+        },
+        "1809": {
+          "anaya": 54
+        },
+        "1810": {
+          "anaya": 56
+        },
+        "1811": {
+          "anaya": 63
+        },
+        "1812": {
+          "anaya": 75
+        },
+        "1813": {
+          "anaya": 49
+        },
+        "1814": {
+          "anaya": 30
+        },
+        "1815": {
+          "anaya": 50
+        },
+        "1816": {
+          "anaya": 73
+        },
+        "1817": {
+          "anaya": 53
+        },
+        "1818": {
+          "anaya": 47
+        },
+        "1819": {
+          "anaya": 31
+        },
+        "1820": {
+          "anaya": 47
+        },
+        "1821": {
+          "anaya": 81
+        },
+        "1822": {
+          "anaya": 61
+        },
+        "1823": {
+          "anaya": 42
+        },
+        "1824": {
+          "anaya": 54
+        },
+        "1825": {
+          "anaya": 100
+        },
+        "1826": {
+          "anaya": 48
+        },
+        "1827": {
+          "anaya": 47
+        },
+        "1828": {
+          "anaya": 42
+        },
+        "1829": {
+          "anaya": 63
+        },
+        "1830": {
+          "anaya": 58
+        },
+        "1831": {
+          "anaya": 64
+        },
+        "1832": {
+          "anaya": 60
+        },
+        "1833": {
+          "anaya": 77
+        },
+        "1834": {
+          "anaya": 51
+        },
+        "1835": {
+          "anaya": 46
+        }
+      },
+      "anaya-mancera": {
+        "1804": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1805": {
+          "mancera": 1,
+          "anaya": 99
+        },
+        "1806": {
+          "mancera": 24,
+          "anaya": 76
+        },
+        "1807": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1809": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1810": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1811": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 23,
+          "anaya": 77
+        },
+        "1813": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1814": {
+          "mancera": 4,
+          "anaya": 96
+        },
+        "1815": {
+          "mancera": 12,
+          "anaya": 88
+        },
+        "1816": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1817": {
+          "mancera": 9,
+          "anaya": 91
+        },
+        "1818": {
+          "mancera": 13,
+          "anaya": 87
+        },
+        "1819": {
+          "mancera": 16,
+          "anaya": 84
+        },
+        "1820": {
+          "mancera": 6,
+          "anaya": 94
+        },
+        "1821": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "mancera": 4,
+          "anaya": 96
+        },
+        "1823": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1824": {
+          "mancera": 10,
+          "anaya": 90
+        },
+        "1825": {
+          "mancera": 2,
+          "anaya": 98
+        },
+        "1826": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1827": {
+          "mancera": 11,
+          "anaya": 89
+        },
+        "1828": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1829": {
+          "mancera": 18,
+          "anaya": 82
+        },
+        "1830": {
+          "mancera": 6,
+          "anaya": 94
+        },
+        "1831": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1832": {
+          "mancera": 10,
+          "anaya": 90
+        },
+        "1833": {
+          "mancera": 2,
+          "anaya": 98
+        },
+        "1834": {
+          "mancera": 4,
+          "anaya": 96
+        },
+        "1835": {
+          "mancera": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-moreno": {
+        "1804": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1805": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1806": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "moreno": 8,
+          "anaya": 92
+        },
+        "1809": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1810": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1811": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "moreno": 4,
+          "anaya": 96
+        },
+        "1813": {
+          "moreno": 9,
+          "anaya": 91
+        },
+        "1814": {
+          "moreno": 4,
+          "anaya": 96
+        },
+        "1815": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1817": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1818": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1819": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1820": {
+          "moreno": 6,
+          "anaya": 94
+        },
+        "1821": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "moreno": 6,
+          "anaya": 94
+        },
+        "1823": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1824": {
+          "moreno": 40,
+          "anaya": 60
+        },
+        "1825": {
+          "moreno": 2,
+          "anaya": 98
+        },
+        "1826": {
+          "moreno": 4,
+          "anaya": 96
+        },
+        "1827": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1828": {
+          "moreno": 10,
+          "anaya": 90
+        },
+        "1829": {
+          "moreno": 16,
+          "anaya": 84
+        },
+        "1830": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1831": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1832": {
+          "moreno": 10,
+          "anaya": 90
+        },
+        "1833": {
+          "moreno": 12,
+          "anaya": 88
+        },
+        "1834": {
+          "moreno": 4,
+          "anaya": 96
+        },
+        "1835": {
+          "moreno": 12,
+          "anaya": 88
+        }
+      },
+      "anaya-mancera-moreno": {
+        "1804": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1805": {
+          "mancera": 1,
+          "moreno": 3,
+          "anaya": 96
+        },
+        "1806": {
+          "mancera": 24,
+          "moreno": 0,
+          "anaya": 76
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "mancera": 0,
+          "moreno": 8,
+          "anaya": 92
+        },
+        "1809": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1810": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 22,
+          "moreno": 3,
+          "anaya": 75
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 9,
+          "anaya": 91
+        },
+        "1814": {
+          "mancera": 4,
+          "moreno": 3,
+          "anaya": 93
+        },
+        "1815": {
+          "mancera": 12,
+          "moreno": 0,
+          "anaya": 88
+        },
+        "1816": {
+          "mancera": 0,
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1817": {
+          "mancera": 9,
+          "moreno": 3,
+          "anaya": 88
+        },
+        "1818": {
+          "mancera": 13,
+          "moreno": 3,
+          "anaya": 84
+        },
+        "1819": {
+          "mancera": 16,
+          "moreno": 0,
+          "anaya": 84
+        },
+        "1820": {
+          "mancera": 6,
+          "moreno": 5,
+          "anaya": 89
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "mancera": 4,
+          "moreno": 6,
+          "anaya": 90
+        },
+        "1823": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1824": {
+          "mancera": 6,
+          "moreno": 38,
+          "anaya": 56
+        },
+        "1825": {
+          "mancera": 2,
+          "moreno": 2,
+          "anaya": 96
+        },
+        "1826": {
+          "mancera": 0,
+          "moreno": 4,
+          "anaya": 96
+        },
+        "1827": {
+          "mancera": 11,
+          "moreno": 0,
+          "anaya": 89
+        },
+        "1828": {
+          "mancera": 0,
+          "moreno": 10,
+          "anaya": 90
+        },
+        "1829": {
+          "mancera": 16,
+          "moreno": 13,
+          "anaya": 71
+        },
+        "1830": {
+          "mancera": 6,
+          "moreno": 0,
+          "anaya": 94
+        },
+        "1831": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1832": {
+          "mancera": 10,
+          "moreno": 9,
+          "anaya": 81
+        },
+        "1833": {
+          "mancera": 2,
+          "moreno": 12,
+          "anaya": 86
+        },
+        "1834": {
+          "mancera": 4,
+          "moreno": 4,
+          "anaya": 92
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 12,
+          "anaya": 88
+        }
+      }
+    }
+  },
+  {
+    "periodo": "2018-02",
+    "nombrei": "February 2018",
+    "nombre": "Febrero 2018",
+    "combinaciones": {
+      "mancera": {
+        "1804": {
+          "mancera": 28
+        },
+        "1805": {
+          "mancera": 12
+        },
+        "1806": {
+          "mancera": 0
+        },
+        "1807": {
+          "mancera": 0
+        },
+        "1808": {
+          "mancera": 46
+        },
+        "1809": {
+          "mancera": 16
+        },
+        "1810": {
+          "mancera": 7
+        },
+        "1811": {
+          "mancera": 0
+        },
+        "1812": {
+          "mancera": 100
+        },
+        "1813": {
+          "mancera": 0
+        },
+        "1814": {
+          "mancera": 8
+        },
+        "1815": {
+          "mancera": 23
+        },
+        "1816": {
+          "mancera": 18
+        },
+        "1817": {
+          "mancera": 17
+        },
+        "1818": {
+          "mancera": 19
+        },
+        "1819": {
+          "mancera": 20
+        },
+        "1820": {
+          "mancera": 0
+        },
+        "1821": {
+          "mancera": 0
+        },
+        "1822": {
+          "mancera": 16
+        },
+        "1823": {
+          "mancera": 19
+        },
+        "1824": {
+          "mancera": 11
+        },
+        "1825": {
+          "mancera": 20
+        },
+        "1826": {
+          "mancera": 0
+        },
+        "1827": {
+          "mancera": 18
+        },
+        "1828": {
+          "mancera": 0
+        },
+        "1829": {
+          "mancera": 7
+        },
+        "1830": {
+          "mancera": 12
+        },
+        "1831": {
+          "mancera": 7
+        },
+        "1832": {
+          "mancera": 0
+        },
+        "1833": {
+          "mancera": 16
+        },
+        "1834": {
+          "mancera": 8
+        },
+        "1835": {
+          "mancera": 0
+        }
+      },
+      "moreno": {
+        "1804": {
+          "moreno": 10
+        },
+        "1805": {
+          "moreno": 3
+        },
+        "1806": {
+          "moreno": 0
+        },
+        "1807": {
+          "moreno": 0
+        },
+        "1808": {
+          "moreno": 7
+        },
+        "1809": {
+          "moreno": 4
+        },
+        "1810": {
+          "moreno": 0
+        },
+        "1811": {
+          "moreno": 0
+        },
+        "1812": {
+          "moreno": 9
+        },
+        "1813": {
+          "moreno": 12
+        },
+        "1814": {
+          "moreno": 3
+        },
+        "1815": {
+          "moreno": 0
+        },
+        "1816": {
+          "moreno": 0
+        },
+        "1817": {
+          "moreno": 3
+        },
+        "1818": {
+          "moreno": 4
+        },
+        "1819": {
+          "moreno": 10
+        },
+        "1820": {
+          "moreno": 0
+        },
+        "1821": {
+          "moreno": 0
+        },
+        "1822": {
+          "moreno": 7
+        },
+        "1823": {
+          "moreno": 0
+        },
+        "1824": {
+          "moreno": 100
+        },
+        "1825": {
+          "moreno": 0
+        },
+        "1826": {
+          "moreno": 17
+        },
+        "1827": {
+          "moreno": 0
+        },
+        "1828": {
+          "moreno": 0
+        },
+        "1829": {
+          "moreno": 0
+        },
+        "1830": {
+          "moreno": 0
+        },
+        "1831": {
+          "moreno": 5
+        },
+        "1832": {
+          "moreno": 0
+        },
+        "1833": {
+          "moreno": 5
+        },
+        "1834": {
+          "moreno": 6
+        },
+        "1835": {
+          "moreno": 0
+        }
+      },
+      "mancera-moreno": {
+        "1804": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1805": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1808": {
+          "mancera": 84,
+          "moreno": 16
+        },
+        "1809": {
+          "mancera": 75,
+          "moreno": 25
+        },
+        "1810": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1812": {
+          "mancera": 89,
+          "moreno": 11
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1814": {
+          "mancera": 67,
+          "moreno": 33
+        },
+        "1815": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1816": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1817": {
+          "mancera": 82,
+          "moreno": 18
+        },
+        "1818": {
+          "mancera": 78,
+          "moreno": 22
+        },
+        "1819": {
+          "mancera": 60,
+          "moreno": 40
+        },
+        "1820": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1822": {
+          "mancera": 64,
+          "moreno": 36
+        },
+        "1823": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1824": {
+          "mancera": 7,
+          "moreno": 93
+        },
+        "1825": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1826": {
+          "mancera": 0,
+          "moreno": 100
+        },
+        "1827": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1828": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1829": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1830": {
+          "mancera": 100,
+          "moreno": 0
+        },
+        "1831": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 0
+        },
+        "1833": {
+          "mancera": 72,
+          "moreno": 28
+        },
+        "1834": {
+          "mancera": 50,
+          "moreno": 50
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 0
+        }
+      },
+      "anaya": {
+        "1804": {
+          "anaya": 48
+        },
+        "1805": {
+          "anaya": 76
+        },
+        "1806": {
+          "anaya": 57
+        },
+        "1807": {
+          "anaya": 62
+        },
+        "1808": {
+          "anaya": 60
+        },
+        "1809": {
+          "anaya": 76
+        },
+        "1810": {
+          "anaya": 54
+        },
+        "1811": {
+          "anaya": 59
+        },
+        "1812": {
+          "anaya": 80
+        },
+        "1813": {
+          "anaya": 81
+        },
+        "1814": {
+          "anaya": 75
+        },
+        "1815": {
+          "anaya": 50
+        },
+        "1816": {
+          "anaya": 73
+        },
+        "1817": {
+          "anaya": 61
+        },
+        "1818": {
+          "anaya": 51
+        },
+        "1819": {
+          "anaya": 58
+        },
+        "1820": {
+          "anaya": 60
+        },
+        "1821": {
+          "anaya": 55
+        },
+        "1822": {
+          "anaya": 84
+        },
+        "1823": {
+          "anaya": 51
+        },
+        "1824": {
+          "anaya": 68
+        },
+        "1825": {
+          "anaya": 100
+        },
+        "1826": {
+          "anaya": 41
+        },
+        "1827": {
+          "anaya": 92
+        },
+        "1828": {
+          "anaya": 75
+        },
+        "1829": {
+          "anaya": 74
+        },
+        "1830": {
+          "anaya": 94
+        },
+        "1831": {
+          "anaya": 74
+        },
+        "1832": {
+          "anaya": 94
+        },
+        "1833": {
+          "anaya": 52
+        },
+        "1834": {
+          "anaya": 69
+        },
+        "1835": {
+          "anaya": 89
+        }
+      },
+      "anaya-mancera": {
+        "1804": {
+          "mancera": 17,
+          "anaya": 83
+        },
+        "1805": {
+          "mancera": 5,
+          "anaya": 95
+        },
+        "1806": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "mancera": 22,
+          "anaya": 78
+        },
+        "1809": {
+          "mancera": 7,
+          "anaya": 93
+        },
+        "1810": {
+          "mancera": 4,
+          "anaya": 96
+        },
+        "1811": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 31,
+          "anaya": 69
+        },
+        "1813": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1814": {
+          "mancera": 3,
+          "anaya": 97
+        },
+        "1815": {
+          "mancera": 14,
+          "anaya": 86
+        },
+        "1816": {
+          "mancera": 8,
+          "anaya": 92
+        },
+        "1817": {
+          "mancera": 9,
+          "anaya": 91
+        },
+        "1818": {
+          "mancera": 12,
+          "anaya": 88
+        },
+        "1819": {
+          "mancera": 11,
+          "anaya": 89
+        },
+        "1820": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1821": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "mancera": 6,
+          "anaya": 94
+        },
+        "1823": {
+          "mancera": 12,
+          "anaya": 88
+        },
+        "1824": {
+          "mancera": 5,
+          "anaya": 95
+        },
+        "1825": {
+          "mancera": 6,
+          "anaya": 94
+        },
+        "1826": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1827": {
+          "mancera": 6,
+          "anaya": 94
+        },
+        "1828": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1829": {
+          "mancera": 3,
+          "anaya": 97
+        },
+        "1830": {
+          "mancera": 4,
+          "anaya": 96
+        },
+        "1831": {
+          "mancera": 3,
+          "anaya": 97
+        },
+        "1832": {
+          "mancera": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 10,
+          "anaya": 90
+        },
+        "1834": {
+          "mancera": 3,
+          "anaya": 97
+        },
+        "1835": {
+          "mancera": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-moreno": {
+        "1804": {
+          "moreno": 9,
+          "anaya": 91
+        },
+        "1805": {
+          "moreno": 1,
+          "anaya": 99
+        },
+        "1806": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "moreno": 5,
+          "anaya": 95
+        },
+        "1809": {
+          "moreno": 2,
+          "anaya": 98
+        },
+        "1810": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1811": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "moreno": 5,
+          "anaya": 95
+        },
+        "1813": {
+          "moreno": 6,
+          "anaya": 94
+        },
+        "1814": {
+          "moreno": 1,
+          "anaya": 99
+        },
+        "1815": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1816": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1817": {
+          "moreno": 2,
+          "anaya": 98
+        },
+        "1818": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1819": {
+          "moreno": 7,
+          "anaya": 93
+        },
+        "1820": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1821": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1823": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1824": {
+          "moreno": 42,
+          "anaya": 58
+        },
+        "1825": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1826": {
+          "moreno": 16,
+          "anaya": 84
+        },
+        "1827": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1828": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1829": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1830": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1831": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1832": {
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "moreno": 4,
+          "anaya": 96
+        },
+        "1834": {
+          "moreno": 3,
+          "anaya": 97
+        },
+        "1835": {
+          "moreno": 0,
+          "anaya": 100
+        }
+      },
+      "anaya-mancera-moreno": {
+        "1804": {
+          "mancera": 16,
+          "moreno": 8,
+          "anaya": 76
+        },
+        "1805": {
+          "mancera": 6,
+          "moreno": 1,
+          "anaya": 93
+        },
+        "1806": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1807": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1808": {
+          "mancera": 21,
+          "moreno": 4,
+          "anaya": 75
+        },
+        "1809": {
+          "mancera": 7,
+          "moreno": 2,
+          "anaya": 91
+        },
+        "1810": {
+          "mancera": 4,
+          "moreno": 0,
+          "anaya": 96
+        },
+        "1811": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1812": {
+          "mancera": 30,
+          "moreno": 3,
+          "anaya": 67
+        },
+        "1813": {
+          "mancera": 0,
+          "moreno": 6,
+          "anaya": 94
+        },
+        "1814": {
+          "mancera": 4,
+          "moreno": 1,
+          "anaya": 95
+        },
+        "1815": {
+          "mancera": 14,
+          "moreno": 0,
+          "anaya": 86
+        },
+        "1816": {
+          "mancera": 8,
+          "moreno": 0,
+          "anaya": 92
+        },
+        "1817": {
+          "mancera": 9,
+          "moreno": 2,
+          "anaya": 89
+        },
+        "1818": {
+          "mancera": 12,
+          "moreno": 3,
+          "anaya": 85
+        },
+        "1819": {
+          "mancera": 10,
+          "moreno": 6,
+          "anaya": 84
+        },
+        "1820": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1821": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1822": {
+          "mancera": 6,
+          "moreno": 3,
+          "anaya": 91
+        },
+        "1823": {
+          "mancera": 12,
+          "moreno": 0,
+          "anaya": 88
+        },
+        "1824": {
+          "mancera": 3,
+          "moreno": 41,
+          "anaya": 56
+        },
+        "1825": {
+          "mancera": 6,
+          "moreno": 0,
+          "anaya": 94
+        },
+        "1826": {
+          "mancera": 0,
+          "moreno": 16,
+          "anaya": 84
+        },
+        "1827": {
+          "mancera": 6,
+          "moreno": 0,
+          "anaya": 94
+        },
+        "1828": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1829": {
+          "mancera": 3,
+          "moreno": 0,
+          "anaya": 97
+        },
+        "1830": {
+          "mancera": 4,
+          "moreno": 0,
+          "anaya": 96
+        },
+        "1831": {
+          "mancera": 3,
+          "moreno": 3,
+          "anaya": 94
+        },
+        "1832": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        },
+        "1833": {
+          "mancera": 10,
+          "moreno": 3,
+          "anaya": 87
+        },
+        "1834": {
+          "mancera": 4,
+          "moreno": 3,
+          "anaya": 93
+        },
+        "1835": {
+          "mancera": 0,
+          "moreno": 0,
+          "anaya": 100
+        }
+      }
+    }
+  }
+]

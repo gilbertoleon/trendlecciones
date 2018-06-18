@@ -1,0 +1,480 @@
+[
+  {
+    "estado": "1812",
+    "nombreestado": "CDMX",
+    "candidatos": [
+      {
+        "id": "barrales",
+        "nombre": "Alejandra Barrales",
+        "nombrecorto": "Barrales",
+        "img": "pan-prd-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIyVzAoM"
+      },
+      {
+        "id": "arriola",
+        "nombre": "Mikel Arriola",
+        "nombrecorto": "Arriola",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKTxsgoM"
+      },
+      {
+        "id": "sheinbaum",
+        "nombre": "Claudia Sheinbaum",
+        "nombrecorto": "Sheinbaum",
+        "img": "morena.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKTxsgkM"
+      },
+      {
+        "id": "boy",
+        "nombre": "Mariana Boy Tamborell",
+        "nombrecorto": "Boy",
+        "img": "pvem.png",
+        "color": "#78b651",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIy6uAgM"
+      },
+      {
+        "id": "carpinteyro",
+        "nombre": "Purificación Carpinteyro Calderón",
+        "nombrecorto": "Carpinteyro",
+        "img": "panal.png",
+        "color": "#00a4ac",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkMyivgsM"
+      },
+      {
+        "id": "osornio",
+        "nombre": "Lorena Osornio Elizondo",
+        "nombrecorto": "Osornio",
+        "img": "ind.png",
+        "color": "#939598",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkMSvxAoM"
+      },
+      {
+        "id": "rascon",
+        "nombre": "Marco Rascón Córdova",
+        "nombrecorto": "Rascón",
+        "img": "ph.png",
+        "color": "#a73377",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkMzJvgkM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQjKzzCgw/view/ww-MX-DIF"
+  },
+  {
+    "estado": "1808",
+    "nombreestado": "Chiapas",
+    "candidatos": [
+      {
+        "id": "albores",
+        "nombre": "Roberto Armando Albores Gleason",
+        "nombrecorto": "Albores",
+        "img": "pri-verde-panal.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIyByQsM"
+      },
+      {
+        "id": "aguilar",
+        "nombre": "José Antonio Aguilar Bodegas",
+        "nombrecorto": "Aguilar",
+        "img": "pan-prd-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkMzW6AsM"
+      },
+      {
+        "id": "escandon",
+        "nombre": "Rutilio Cruz Escandón Cadenas",
+        "nombrecorto": "Escandón",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPSOqggM"
+      },
+      {
+        "id": "culebro",
+        "nombre": "Horacio Culebro Borrayas",
+        "nombrecorto": "Culebro",
+        "img": "ind.png",
+        "color": "#939598",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkLT6lQgM"
+      },
+      {
+        "id": "orantes",
+        "nombre": "Jesús Alejo Orantes Ruiz",
+        "nombrecorto": "Orantes",
+        "img": "ind.png",
+        "color": "#939598",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPSnuwsM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQ0fDfCww/view/ww-MX-CHP"
+  },
+  {
+    "estado": "1814",
+    "nombreestado": "Guanajuato",
+    "candidatos": [
+      {
+        "id": "rodriguez",
+        "nombre": "Diego Sinhue Rodríguez Vallejo",
+        "nombrecorto": "Rodríguez",
+        "img": "pan-prd-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKStmwgM"
+      },
+      {
+        "id": "sanchez",
+        "nombre": "Gerardo Sánchez García",
+        "nombrecorto": "Sánchez",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkLSr7AsM"
+      },
+      {
+        "id": "sheffield",
+        "nombre": "Francisco Ricardo Sheffield Padilla",
+        "nombrecorto": "Sheffield",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkMmq5wkM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQoYqeCQw/view/ww-MX-GUA"
+  },
+  {
+    "estado": "1817",
+    "nombreestado": "Jalisco",
+    "candidatos": [
+      {
+        "id": "cosio",
+        "nombre": "Salvador Cosío Gaona",
+        "nombrecorto": "Cosío",
+        "img": "pvem.png",
+        "color": "#78b651",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIyVzAsM"
+      },
+      {
+        "id": "castro",
+        "nombre": "Miguel Castro Reynoso",
+        "nombrecorto": "Castro",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPSSqwkM"
+      },
+      {
+        "id": "alfaro",
+        "nombre": "Enrique Alfaro Ramírez",
+        "nombrecorto": "Alfaro",
+        "img": "mc.png",
+        "color": "#dd4124",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkOSFgAoM"
+      },
+      {
+        "id": "martninez",
+        "nombre": "Miguel Ángel Martínez Espinosa",
+        "nombrecorto": "Martínez",
+        "img": "pan.png",
+        "color": "#2e9dfc",
+        "gid": ""
+      },
+      {
+        "id": "araiza",
+        "nombre": "Martha Rosa Araíza Soltero",
+        "nombrecorto": "Araíza",
+        "img": "panal.png",
+        "color": "#00a4ac",
+        "gid": ""
+      },
+      {
+        "id": "orozco",
+        "nombre": "Carlos Orozco Santillán",
+        "nombrecorto": "Orozco",
+        "img": "prd.png",
+        "color": "#f0c347",
+        "gid": ""
+      },
+      {
+        "id": "lomeli",
+        "nombre": "Carlos Lomelí Bolaños",
+        "nombrecorto": "Lomelí",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid": ""
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQmb_1Cgw/view/ww-MX-JAL"
+  },
+  {
+    "estado": "1820",
+    "nombreestado": "Morelos",
+    "candidatos": [
+      {
+        "id": "blanco",
+        "nombre": "Cuauhtémoc Blanco Bravo",
+        "nombrecorto": "Blanco",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIzMlwoM"
+      },
+      {
+        "id": "demedicis",
+        "nombre": "Fidel Demedicis Hidalgo",
+        "nombrecorto": "Demedicis",
+        "img": "ind.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPHl6wgM"
+      },
+      {
+        "id": "caballero",
+        "nombre": "Víctor Manuel Caballero Solano",
+        "nombrecorto": "Caballero",
+        "img": "pan-mc.png",
+        "color": "#2e9dfc",
+        "gid": ""
+      },
+      {
+        "id": "rojas",
+        "nombre": "Mario Rojas Alba",
+        "nombrecorto": "Rojas",
+        "img": "ph.png",
+        "color": "#a73377",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPiVsgkM"
+      },
+      {
+        "id": "gayosso",
+        "nombre": "Manuel Rodrigo Gayosso Cepeda",
+        "nombrecorto": "Gayosso",
+        "img": "prd-psd.png",
+        "color": "#f0c347",
+        "gid": ""
+      },
+      {
+        "id": "meade",
+        "nombre": "Jorge Meade Ocaranza",
+        "nombrecorto": "Meade",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPT9zgkM"
+      },
+      {
+        "id": "lara",
+        "nombre": "Nadia Luz Lara Chávez",
+        "nombrecorto": "Lara",
+        "img": "pvem.png",
+        "color": "#78b651",
+        "gid": ""
+      },
+      {
+        "id": "vera",
+        "nombre": "Alejandro Vera Jiménez",
+        "nombrecorto": "Vera",
+        "img": "pes.png",
+        "color": "#632c78",
+        "gid": ""
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQmZGoCww/view/ww-MX-MOR"
+  },
+  {
+    "estado": "1824",
+    "nombreestado": "Puebla",
+    "candidatos": [
+      {
+        "id": "barbosa",
+        "nombre": "Luis Miguel Barbosa Huerta",
+        "nombrecorto": "Barbosa",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkMyJuQgM"
+      },
+      {
+        "id": "doger",
+        "nombre": "Enrique Doger Guerrero",
+        "nombrecorto": "Doger",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkNSutggM"
+      },
+      {
+        "id": "alonso",
+        "nombre": "Martha Erika Alonso Hidalgo",
+        "nombrecorto": "Alonso",
+        "img": "pan-prd-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkOSeqQsM"
+      },
+      {
+        "id": "chain",
+        "nombre": "Michel Chaín Carrillo",
+        "nombrecorto": "Chaín",
+        "img": "pvem.png",
+        "color": "#78b651",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKjU5AsM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQ4dzpCgw/view/ww-MX-PUE"
+  },
+  {
+    "estado": "1830",
+    "nombreestado": "Tabasco",
+    "candidatos": [
+      {
+        "id": "gaudiano",
+        "nombre": "Gerardo Gaudiano Rovirosa",
+        "nombrecorto": "Gaudiano",
+        "img": "pan-prd-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIyvlwkM"
+      },
+      {
+        "id": "lopez",
+        "nombre": "Adán Augusto López Hernández",
+        "nombrecorto": "López",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKTmuwsM"
+      },
+      {
+        "id": "ali",
+        "nombre": "Jesús Alí De la Torre",
+        "nombrecorto": "Alí",
+        "img": "ind.png",
+        "color": "#939598",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkIyBqQsM"
+      },
+      {
+        "id": "trujillo",
+        "nombre": "Georgina Trujillo Zentella",
+        "nombrecorto": "Trujillo",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkLSclAsM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQpK2bCww/view/ww-MX-TAB"
+  },
+  {
+    "estado": "1833",
+    "nombreestado": "Veracruz",
+    "candidatos": [
+      {
+        "id": "yunes-zorrilla",
+        "nombre": "José Francisco Yunes Zorrilla",
+        "nombrecorto": "Yunes Zorrilla",
+        "img": "pri.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKjUlAoM"
+      },
+      {
+        "id": "yunes-marquez",
+        "nombre": "Miguel Ángel Yunes Márquez",
+        "nombrecorto": "Yunes Márquez",
+        "img": "pan-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKj57QsM"
+      },
+      {
+        "id": "gonzalez",
+        "nombre": "Miriam Judith González Sheridan",
+        "nombrecorto": "González",
+        "img": "panal.png",
+        "color": "#00a4ac",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKS7mggM"
+      },
+      {
+        "id": "garcia",
+        "nombre": "Cuitlahuac García Jiménez",
+        "nombrecorto": "García",
+        "img": "morena.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkJSN4woM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQ0aHpCww/view/ww-MX-VER"
+  },
+  {
+    "estado": "1834",
+    "nombreestado": "Yucatán",
+    "candidatos": [
+      {
+        "id": "sahui",
+        "nombre": "Mauricio Sahuí Rivero",
+        "nombrecorto": "Sahuí",
+        "img": "pri-verde-panal.png",
+        "color": "#ff0000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKj5nQgM"
+      },
+      {
+        "id": "diaz",
+        "nombre": "Joaquín Díaz Mena",
+        "nombrecorto": "Díaz",
+        "img": "morena-pes-pt.png",
+        "color": "#960000",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkLS1rQkM"
+      },
+      {
+        "id": "vila",
+        "nombre": "Mauricio Vila Dosal",
+        "nombrecorto": "Vila",
+        "img": "pan-mc.png",
+        "color": "#2e9dfc",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkPSnhwgM"
+      },
+      {
+        "id": "zavala",
+        "nombre": "Jorge Zavala Castro",
+        "nombrecorto": "Zavala",
+        "img": "prd.png",
+        "color": "#f0c347",
+        "gid":
+          "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAkKTm-wsM"
+      }
+    ],
+    "url":
+      "https://trends-cms.appspot.com/api/fetchers/agxzfnRyZW5kcy1jbXNyKwsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIHRmV0Y2hlchiAgICQlNGCCAw/view/ww-MX-YUC"
+  }
+]

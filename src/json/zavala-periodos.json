@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2006",
+    "nombre": "Margarita Ester Zavala Gómez del Campo (2006)",
+    "nombrecorto": "Zavala (2006)",
+    "color": "#9c84d9",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMjelQoM",
+    "img": "zavala2006.png",
+    "coords": { "x": 244, "y": -330 },
+    "colorpalabras": "#bca8e2"
+  },
+  {
+    "id": "2018",
+    "nombre": "Margarita Ester Zavala Gómez del Campo (2018)",
+    "nombrecorto": "Zavala (2018)",
+    "color": "#9c84d9",
+    "gid":
+      "agxzfnRyZW5kcy1jbXNyKQsSCkdyb3VwRXZlbnQYgICAgPyEhgoMCxIFVG9waWMYgICAwMjelQoM",
+    "img": "zavala2018.png",
+    "coords": { "x": 304, "y": -330 },
+    "colorpalabras": "#bca8e2"
+  }
+]

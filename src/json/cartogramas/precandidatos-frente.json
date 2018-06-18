@@ -1,0 +1,837 @@
+[
+  {
+    "periodo": "2017-10",
+    "nombre": "Octubre 2017",
+    "nombrei": "October 2017",
+    "valores": {
+      "1804": {
+        "mancera": 0,
+        "moreno": 30,
+        "anaya": 50
+      },
+      "1805": {
+        "mancera": 11,
+        "moreno": 4,
+        "anaya": 29
+      },
+      "1806": {
+        "mancera": 0,
+        "moreno": 49,
+        "anaya": 21
+      },
+      "1807": {
+        "mancera": 41,
+        "moreno": 0,
+        "anaya": 52
+      },
+      "1808": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 25
+      },
+      "1809": {
+        "mancera": 8,
+        "moreno": 0,
+        "anaya": 35
+      },
+      "1810": {
+        "mancera": 0,
+        "moreno": 15,
+        "anaya": 50
+      },
+      "1811": {
+        "mancera": 0,
+        "moreno": 77,
+        "anaya": 32
+      },
+      "1812": {
+        "mancera": 100,
+        "moreno": 18,
+        "anaya": 49
+      },
+      "1813": {
+        "mancera": 0,
+        "moreno": 19,
+        "anaya": 31
+      },
+      "1814": {
+        "mancera": 28,
+        "moreno": 0,
+        "anaya": 22
+      },
+      "1815": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 10
+      },
+      "1816": {
+        "mancera": 13,
+        "moreno": 10,
+        "anaya": 50
+      },
+      "1817": {
+        "mancera": 14,
+        "moreno": 8,
+        "anaya": 21
+      },
+      "1818": {
+        "mancera": 20,
+        "moreno": 4,
+        "anaya": 30
+      },
+      "1819": {
+        "mancera": 9,
+        "moreno": 14,
+        "anaya": 12
+      },
+      "1820": {
+        "mancera": 15,
+        "moreno": 24,
+        "anaya": 10
+      },
+      "1821": {
+        "mancera": 0,
+        "moreno": 44,
+        "anaya": 37
+      },
+      "1822": {
+        "mancera": 6,
+        "moreno": 5,
+        "anaya": 48
+      },
+      "1823": {
+        "mancera": 14,
+        "moreno": 11,
+        "anaya": 46
+      },
+      "1824": {
+        "mancera": 0,
+        "moreno": 100,
+        "anaya": 44
+      },
+      "1825": {
+        "mancera": 10,
+        "moreno": 22,
+        "anaya": 100
+      },
+      "1826": {
+        "mancera": 23,
+        "moreno": 0,
+        "anaya": 38
+      },
+      "1827": {
+        "mancera": 13,
+        "moreno": 0,
+        "anaya": 25
+      },
+      "1828": {
+        "mancera": 10,
+        "moreno": 16,
+        "anaya": 53
+      },
+      "1829": {
+        "mancera": 28,
+        "moreno": 7,
+        "anaya": 37
+      },
+      "1830": {
+        "mancera": 34,
+        "moreno": 0,
+        "anaya": 22
+      },
+      "1831": {
+        "mancera": 38,
+        "moreno": 22,
+        "anaya": 37
+      },
+      "1832": {
+        "mancera": 0,
+        "moreno": 70,
+        "anaya": 40
+      },
+      "1833": {
+        "mancera": 5,
+        "moreno": 30,
+        "anaya": 28
+      },
+      "1834": {
+        "mancera": 39,
+        "moreno": 15,
+        "anaya": 6
+      },
+      "1835": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 36
+      }
+    }
+  },
+  {
+    "periodo": "2017-11",
+    "nombre": "Noviembre 2017",
+    "nombrei": "November 2017",
+    "valores": {
+      "1804": {
+        "mancera": 17,
+        "moreno": 0,
+        "anaya": 58
+      },
+      "1805": {
+        "mancera": 0,
+        "moreno": 24,
+        "anaya": 17
+      },
+      "1806": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 45
+      },
+      "1807": {
+        "mancera": 0,
+        "moreno": 81,
+        "anaya": 0
+      },
+      "1808": {
+        "mancera": 23,
+        "moreno": 14,
+        "anaya": 59
+      },
+      "1809": {
+        "mancera": 7,
+        "moreno": 0,
+        "anaya": 23
+      },
+      "1810": {
+        "mancera": 26,
+        "moreno": 0,
+        "anaya": 30
+      },
+      "1811": {
+        "mancera": 0,
+        "moreno": 95,
+        "anaya": 0
+      },
+      "1812": {
+        "mancera": 100,
+        "moreno": 40,
+        "anaya": 55
+      },
+      "1813": {
+        "mancera": 0,
+        "moreno": 25,
+        "anaya": 35
+      },
+      "1814": {
+        "mancera": 10,
+        "moreno": 6,
+        "anaya": 26
+      },
+      "1815": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 75
+      },
+      "1816": {
+        "mancera": 12,
+        "moreno": 100,
+        "anaya": 100
+      },
+      "1817": {
+        "mancera": 10,
+        "moreno": 9,
+        "anaya": 33
+      },
+      "1818": {
+        "mancera": 19,
+        "moreno": 13,
+        "anaya": 25
+      },
+      "1819": {
+        "mancera": 25,
+        "moreno": 10,
+        "anaya": 0
+      },
+      "1820": {
+        "mancera": 36,
+        "moreno": 15,
+        "anaya": 63
+      },
+      "1821": {
+        "mancera": 0,
+        "moreno": 31,
+        "anaya": 43
+      },
+      "1822": {
+        "mancera": 20,
+        "moreno": 14,
+        "anaya": 39
+      },
+      "1823": {
+        "mancera": 48,
+        "moreno": 0,
+        "anaya": 42
+      },
+      "1824": {
+        "mancera": 4,
+        "moreno": 75,
+        "anaya": 45
+      },
+      "1825": {
+        "mancera": 8,
+        "moreno": 42,
+        "anaya": 73
+      },
+      "1826": {
+        "mancera": 0,
+        "moreno": 12,
+        "anaya": 51
+      },
+      "1827": {
+        "mancera": 11,
+        "moreno": 57,
+        "anaya": 59
+      },
+      "1828": {
+        "mancera": 28,
+        "moreno": 12,
+        "anaya": 33
+      },
+      "1829": {
+        "mancera": 31,
+        "moreno": 19,
+        "anaya": 54
+      },
+      "1830": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 0
+      },
+      "1831": {
+        "mancera": 8,
+        "moreno": 31,
+        "anaya": 29
+      },
+      "1832": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 47
+      },
+      "1833": {
+        "mancera": 8,
+        "moreno": 15,
+        "anaya": 36
+      },
+      "1834": {
+        "mancera": 9,
+        "moreno": 23,
+        "anaya": 63
+      },
+      "1835": {
+        "mancera": 0,
+        "moreno": 59,
+        "anaya": 41
+      }
+    }
+  },
+  {
+    "periodo": "2017-12",
+    "nombre": "Diciembre 2017",
+    "nombrei": "December 2017",
+    "valores": {
+      "1804": {
+        "mancera": 17,
+        "moreno": 0,
+        "anaya": 63
+      },
+      "1805": {
+        "mancera": 34,
+        "moreno": 9,
+        "anaya": 46
+      },
+      "1806": {
+        "mancera": 0,
+        "moreno": 15,
+        "anaya": 55
+      },
+      "1807": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 12
+      },
+      "1808": {
+        "mancera": 36,
+        "moreno": 7,
+        "anaya": 30
+      },
+      "1809": {
+        "mancera": 13,
+        "moreno": 8,
+        "anaya": 61
+      },
+      "1810": {
+        "mancera": 23,
+        "moreno": 5,
+        "anaya": 37
+      },
+      "1811": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 27
+      },
+      "1812": {
+        "mancera": 100,
+        "moreno": 12,
+        "anaya": 55
+      },
+      "1813": {
+        "mancera": 40,
+        "moreno": 0,
+        "anaya": 36
+      },
+      "1814": {
+        "mancera": 20,
+        "moreno": 3,
+        "anaya": 52
+      },
+      "1815": {
+        "mancera": 14,
+        "moreno": 0,
+        "anaya": 21
+      },
+      "1816": {
+        "mancera": 25,
+        "moreno": 7,
+        "anaya": 54
+      },
+      "1817": {
+        "mancera": 21,
+        "moreno": 11,
+        "anaya": 36
+      },
+      "1818": {
+        "mancera": 37,
+        "moreno": 6,
+        "anaya": 47
+      },
+      "1819": {
+        "mancera": 24,
+        "moreno": 5,
+        "anaya": 48
+      },
+      "1820": {
+        "mancera": 23,
+        "moreno": 14,
+        "anaya": 47
+      },
+      "1821": {
+        "mancera": 24,
+        "moreno": 15,
+        "anaya": 44
+      },
+      "1822": {
+        "mancera": 17,
+        "moreno": 2,
+        "anaya": 30
+      },
+      "1823": {
+        "mancera": 35,
+        "moreno": 0,
+        "anaya": 42
+      },
+      "1824": {
+        "mancera": 73,
+        "moreno": 100,
+        "anaya": 50
+      },
+      "1825": {
+        "mancera": 18,
+        "moreno": 11,
+        "anaya": 100
+      },
+      "1826": {
+        "mancera": 17,
+        "moreno": 11,
+        "anaya": 35
+      },
+      "1827": {
+        "mancera": 11,
+        "moreno": 14,
+        "anaya": 54
+      },
+      "1828": {
+        "mancera": 72,
+        "moreno": 5,
+        "anaya": 23
+      },
+      "1829": {
+        "mancera": 23,
+        "moreno": 9,
+        "anaya": 31
+      },
+      "1830": {
+        "mancera": 15,
+        "moreno": 9,
+        "anaya": 51
+      },
+      "1831": {
+        "mancera": 16,
+        "moreno": 10,
+        "anaya": 52
+      },
+      "1832": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 21
+      },
+      "1833": {
+        "mancera": 16,
+        "moreno": 17,
+        "anaya": 49
+      },
+      "1834": {
+        "mancera": 19,
+        "moreno": 0,
+        "anaya": 35
+      },
+      "1835": {
+        "mancera": 0,
+        "moreno": 14,
+        "anaya": 17
+      }
+    }
+  },
+  {
+    "periodo": "2018-01",
+    "nombre": "Enero 2018",
+    "nombrei": "January 2018",
+    "valores": {
+      "1804": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 53
+      },
+      "1805": {
+        "mancera": 0,
+        "moreno": 7,
+        "anaya": 81
+      },
+      "1806": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 43
+      },
+      "1807": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 27
+      },
+      "1808": {
+        "mancera": 34,
+        "moreno": 8,
+        "anaya": 32
+      },
+      "1809": {
+        "mancera": 29,
+        "moreno": 0,
+        "anaya": 54
+      },
+      "1810": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 56
+      },
+      "1811": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 63
+      },
+      "1812": {
+        "mancera": 100,
+        "moreno": 9,
+        "anaya": 75
+      },
+      "1813": {
+        "mancera": 0,
+        "moreno": 14,
+        "anaya": 49
+      },
+      "1814": {
+        "mancera": 0,
+        "moreno": 3,
+        "anaya": 30
+      },
+      "1815": {
+        "mancera": 40,
+        "moreno": 0,
+        "anaya": 50
+      },
+      "1816": {
+        "mancera": 33,
+        "moreno": 16,
+        "anaya": 73
+      },
+      "1817": {
+        "mancera": 20,
+        "moreno": 5,
+        "anaya": 53
+      },
+      "1818": {
+        "mancera": 31,
+        "moreno": 5,
+        "anaya": 47
+      },
+      "1819": {
+        "mancera": 12,
+        "moreno": 0,
+        "anaya": 31
+      },
+      "1820": {
+        "mancera": 17,
+        "moreno": 9,
+        "anaya": 47
+      },
+      "1821": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 81
+      },
+      "1822": {
+        "mancera": 27,
+        "moreno": 12,
+        "anaya": 61
+      },
+      "1823": {
+        "mancera": 17,
+        "moreno": 0,
+        "anaya": 42
+      },
+      "1824": {
+        "mancera": 20,
+        "moreno": 100,
+        "anaya": 54
+      },
+      "1825": {
+        "mancera": 0,
+        "moreno": 6,
+        "anaya": 100
+      },
+      "1826": {
+        "mancera": 25,
+        "moreno": 6,
+        "anaya": 48
+      },
+      "1827": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 47
+      },
+      "1828": {
+        "mancera": 0,
+        "moreno": 13,
+        "anaya": 42
+      },
+      "1829": {
+        "mancera": 23,
+        "moreno": 33,
+        "anaya": 63
+      },
+      "1830": {
+        "mancera": 22,
+        "moreno": 0,
+        "anaya": 58
+      },
+      "1831": {
+        "mancera": 33,
+        "moreno": 0,
+        "anaya": 64
+      },
+      "1832": {
+        "mancera": 0,
+        "moreno": 19,
+        "anaya": 60
+      },
+      "1833": {
+        "mancera": 22,
+        "moreno": 31,
+        "anaya": 77
+      },
+      "1834": {
+        "mancera": 14,
+        "moreno": 7,
+        "anaya": 51
+      },
+      "1835": {
+        "mancera": 0,
+        "moreno": 17,
+        "anaya": 46
+      }
+    }
+  },
+  {
+    "periodo": "2018-02",
+    "nombre": "Febrero 2018",
+    "nombrei": "February 2018",
+    "valores": {
+      "1804": {
+        "mancera": 28,
+        "moreno": 10,
+        "anaya": 48
+      },
+      "1805": {
+        "mancera": 12,
+        "moreno": 3,
+        "anaya": 76
+      },
+      "1806": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 57
+      },
+      "1807": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 62
+      },
+      "1808": {
+        "mancera": 46,
+        "moreno": 7,
+        "anaya": 60
+      },
+      "1809": {
+        "mancera": 16,
+        "moreno": 4,
+        "anaya": 76
+      },
+      "1810": {
+        "mancera": 7,
+        "moreno": 0,
+        "anaya": 54
+      },
+      "1811": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 59
+      },
+      "1812": {
+        "mancera": 100,
+        "moreno": 9,
+        "anaya": 80
+      },
+      "1813": {
+        "mancera": 0,
+        "moreno": 12,
+        "anaya": 81
+      },
+      "1814": {
+        "mancera": 8,
+        "moreno": 3,
+        "anaya": 75
+      },
+      "1815": {
+        "mancera": 23,
+        "moreno": 0,
+        "anaya": 50
+      },
+      "1816": {
+        "mancera": 18,
+        "moreno": 0,
+        "anaya": 73
+      },
+      "1817": {
+        "mancera": 17,
+        "moreno": 3,
+        "anaya": 61
+      },
+      "1818": {
+        "mancera": 19,
+        "moreno": 4,
+        "anaya": 51
+      },
+      "1819": {
+        "mancera": 20,
+        "moreno": 10,
+        "anaya": 58
+      },
+      "1820": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 60
+      },
+      "1821": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 55
+      },
+      "1822": {
+        "mancera": 16,
+        "moreno": 7,
+        "anaya": 84
+      },
+      "1823": {
+        "mancera": 19,
+        "moreno": 0,
+        "anaya": 51
+      },
+      "1824": {
+        "mancera": 11,
+        "moreno": 100,
+        "anaya": 68
+      },
+      "1825": {
+        "mancera": 20,
+        "moreno": 0,
+        "anaya": 100
+      },
+      "1826": {
+        "mancera": 0,
+        "moreno": 17,
+        "anaya": 41
+      },
+      "1827": {
+        "mancera": 18,
+        "moreno": 0,
+        "anaya": 92
+      },
+      "1828": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 75
+      },
+      "1829": {
+        "mancera": 7,
+        "moreno": 0,
+        "anaya": 74
+      },
+      "1830": {
+        "mancera": 12,
+        "moreno": 0,
+        "anaya": 94
+      },
+      "1831": {
+        "mancera": 7,
+        "moreno": 5,
+        "anaya": 74
+      },
+      "1832": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 94
+      },
+      "1833": {
+        "mancera": 16,
+        "moreno": 5,
+        "anaya": 52
+      },
+      "1834": {
+        "mancera": 8,
+        "moreno": 6,
+        "anaya": 69
+      },
+      "1835": {
+        "mancera": 0,
+        "moreno": 0,
+        "anaya": 89
+      }
+    }
+  }
+]

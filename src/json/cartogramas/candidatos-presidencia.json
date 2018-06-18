@@ -1,0 +1,1196 @@
+[
+  {
+    "periodo": "2017-01-2017-03",
+    "nombre": "Enero 2017 - Marzo 2017",
+    "nombrei": "January 2017 - March 2017",
+    "valores": {
+      "1804": {
+        "amlo": 19,
+        "anaya": 26,
+        "meade": 67,
+        "bronco": 0
+      },
+      "1805": {
+        "amlo": 22,
+        "anaya": 37,
+        "meade": 13,
+        "bronco": 5
+      },
+      "1806": {
+        "amlo": 22,
+        "anaya": 40,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1807": {
+        "amlo": 33,
+        "anaya": 0,
+        "meade": 93,
+        "bronco": 20
+      },
+      "1808": {
+        "amlo": 42,
+        "anaya": 9,
+        "meade": 60,
+        "bronco": 0
+      },
+      "1809": {
+        "amlo": 18,
+        "anaya": 41,
+        "meade": 36,
+        "bronco": 4
+      },
+      "1810": {
+        "amlo": 16,
+        "anaya": 25,
+        "meade": 43,
+        "bronco": 19
+      },
+      "1811": {
+        "amlo": 22,
+        "anaya": 100,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1812": {
+        "amlo": 34,
+        "anaya": 60,
+        "meade": 100,
+        "bronco": 6
+      },
+      "1813": {
+        "amlo": 23,
+        "anaya": 0,
+        "meade": 27,
+        "bronco": 0
+      },
+      "1814": {
+        "amlo": 17,
+        "anaya": 46,
+        "meade": 20,
+        "bronco": 6
+      },
+      "1815": {
+        "amlo": 26,
+        "anaya": 30,
+        "meade": 17,
+        "bronco": 7
+      },
+      "1816": {
+        "amlo": 26,
+        "anaya": 27,
+        "meade": 31,
+        "bronco": 0
+      },
+      "1817": {
+        "amlo": 19,
+        "anaya": 33,
+        "meade": 44,
+        "bronco": 7
+      },
+      "1818": {
+        "amlo": 21,
+        "anaya": 28,
+        "meade": 37,
+        "bronco": 2
+      },
+      "1819": {
+        "amlo": 23,
+        "anaya": 12,
+        "meade": 21,
+        "bronco": 5
+      },
+      "1820": {
+        "amlo": 23,
+        "anaya": 21,
+        "meade": 89,
+        "bronco": 8
+      },
+      "1821": {
+        "amlo": 23,
+        "anaya": 18,
+        "meade": 31,
+        "bronco": 0
+      },
+      "1822": {
+        "amlo": 20,
+        "anaya": 45,
+        "meade": 51,
+        "bronco": 100
+      },
+      "1823": {
+        "amlo": 36,
+        "anaya": 19,
+        "meade": 16,
+        "bronco": 7
+      },
+      "1824": {
+        "amlo": 35,
+        "anaya": 58,
+        "meade": 44,
+        "bronco": 0
+      },
+      "1825": {
+        "amlo": 29,
+        "anaya": 67,
+        "meade": 58,
+        "bronco": 10
+      },
+      "1826": {
+        "amlo": 21,
+        "anaya": 38,
+        "meade": 26,
+        "bronco": 0
+      },
+      "1827": {
+        "amlo": 24,
+        "anaya": 0,
+        "meade": 46,
+        "bronco": 20
+      },
+      "1828": {
+        "amlo": 21,
+        "anaya": 14,
+        "meade": 71,
+        "bronco": 0
+      },
+      "1829": {
+        "amlo": 27,
+        "anaya": 43,
+        "meade": 32,
+        "bronco": 0
+      },
+      "1830": {
+        "amlo": 100,
+        "anaya": 23,
+        "meade": 40,
+        "bronco": 0
+      },
+      "1831": {
+        "amlo": 26,
+        "anaya": 84,
+        "meade": 22,
+        "bronco": 24
+      },
+      "1832": {
+        "amlo": 16,
+        "anaya": 21,
+        "meade": 0,
+        "bronco": 15
+      },
+      "1833": {
+        "amlo": 39,
+        "anaya": 35,
+        "meade": 27,
+        "bronco": 7
+      },
+      "1834": {
+        "amlo": 38,
+        "anaya": 7,
+        "meade": 34,
+        "bronco": 10
+      },
+      "1835": {
+        "amlo": 22,
+        "anaya": 36,
+        "meade": 31,
+        "bronco": 0
+      }
+    }
+  },
+  {
+    "periodo": "2017-04-2017-06",
+    "nombre": "Abril 2017 - Junio 2017",
+    "nombrei": "April 2017 - June 2017",
+    "valores": {
+      "1804": {
+        "amlo": 36,
+        "anaya": 47,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1805": {
+        "amlo": 23,
+        "anaya": 27,
+        "meade": 46,
+        "bronco": 0
+      },
+      "1806": {
+        "amlo": 46,
+        "anaya": 100,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1807": {
+        "amlo": 41,
+        "anaya": 0,
+        "meade": 0,
+        "bronco": 32
+      },
+      "1808": {
+        "amlo": 59,
+        "anaya": 0,
+        "meade": 55,
+        "bronco": 0
+      },
+      "1809": {
+        "amlo": 25,
+        "anaya": 32,
+        "meade": 11,
+        "bronco": 6
+      },
+      "1810": {
+        "amlo": 43,
+        "anaya": 71,
+        "meade": 0,
+        "bronco": 31
+      },
+      "1811": {
+        "amlo": 36,
+        "anaya": 0,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1812": {
+        "amlo": 61,
+        "anaya": 64,
+        "meade": 100,
+        "bronco": 9
+      },
+      "1813": {
+        "amlo": 41,
+        "anaya": 80,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1814": {
+        "amlo": 23,
+        "anaya": 37,
+        "meade": 0,
+        "bronco": 9
+      },
+      "1815": {
+        "amlo": 51,
+        "anaya": 25,
+        "meade": 22,
+        "bronco": 12
+      },
+      "1816": {
+        "amlo": 45,
+        "anaya": 33,
+        "meade": 56,
+        "bronco": 0
+      },
+      "1817": {
+        "amlo": 34,
+        "anaya": 26,
+        "meade": 15,
+        "bronco": 6
+      },
+      "1818": {
+        "amlo": 47,
+        "anaya": 39,
+        "meade": 32,
+        "bronco": 3
+      },
+      "1819": {
+        "amlo": 41,
+        "anaya": 15,
+        "meade": 13,
+        "bronco": 14
+      },
+      "1820": {
+        "amlo": 46,
+        "anaya": 13,
+        "meade": 43,
+        "bronco": 0
+      },
+      "1821": {
+        "amlo": 37,
+        "anaya": 23,
+        "meade": 0,
+        "bronco": 45
+      },
+      "1822": {
+        "amlo": 28,
+        "anaya": 34,
+        "meade": 18,
+        "bronco": 100
+      },
+      "1823": {
+        "amlo": 66,
+        "anaya": 34,
+        "meade": 19,
+        "bronco": 11
+      },
+      "1824": {
+        "amlo": 44,
+        "anaya": 53,
+        "meade": 41,
+        "bronco": 0
+      },
+      "1825": {
+        "amlo": 42,
+        "anaya": 73,
+        "meade": 28,
+        "bronco": 8
+      },
+      "1826": {
+        "amlo": 29,
+        "anaya": 37,
+        "meade": 16,
+        "bronco": 9
+      },
+      "1827": {
+        "amlo": 30,
+        "anaya": 44,
+        "meade": 37,
+        "bronco": 11
+      },
+      "1828": {
+        "amlo": 43,
+        "anaya": 25,
+        "meade": 56,
+        "bronco": 0
+      },
+      "1829": {
+        "amlo": 44,
+        "anaya": 62,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1830": {
+        "amlo": 100,
+        "anaya": 29,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1831": {
+        "amlo": 41,
+        "anaya": 81,
+        "meade": 14,
+        "bronco": 8
+      },
+      "1832": {
+        "amlo": 17,
+        "anaya": 0,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1833": {
+        "amlo": 64,
+        "anaya": 67,
+        "meade": 27,
+        "bronco": 4
+      },
+      "1834": {
+        "amlo": 57,
+        "anaya": 47,
+        "meade": 53,
+        "bronco": 8
+      },
+      "1835": {
+        "amlo": 24,
+        "anaya": 23,
+        "meade": 38,
+        "bronco": 44
+      }
+    }
+  },
+  {
+    "periodo": "2017-07-2017-09",
+    "nombre": "Julio 2017 - Septiembre 2017",
+    "nombrei": "July 2017 - September 2017",
+    "valores": {
+      "1804": {
+        "amlo": 26,
+        "anaya": 80,
+        "meade": 26,
+        "bronco": 0
+      },
+      "1805": {
+        "amlo": 30,
+        "anaya": 30,
+        "meade": 34,
+        "bronco": 0
+      },
+      "1806": {
+        "amlo": 38,
+        "anaya": 19,
+        "meade": 42,
+        "bronco": 24
+      },
+      "1807": {
+        "amlo": 55,
+        "anaya": 0,
+        "meade": 0,
+        "bronco": 30
+      },
+      "1808": {
+        "amlo": 55,
+        "anaya": 8,
+        "meade": 38,
+        "bronco": 0
+      },
+      "1809": {
+        "amlo": 27,
+        "anaya": 46,
+        "meade": 16,
+        "bronco": 0
+      },
+      "1810": {
+        "amlo": 21,
+        "anaya": 47,
+        "meade": 20,
+        "bronco": 15
+      },
+      "1811": {
+        "amlo": 26,
+        "anaya": 0,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1812": {
+        "amlo": 48,
+        "anaya": 69,
+        "meade": 100,
+        "bronco": 7
+      },
+      "1813": {
+        "amlo": 35,
+        "anaya": 73,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1814": {
+        "amlo": 25,
+        "anaya": 57,
+        "meade": 11,
+        "bronco": 17
+      },
+      "1815": {
+        "amlo": 46,
+        "anaya": 20,
+        "meade": 22,
+        "bronco": 12
+      },
+      "1816": {
+        "amlo": 35,
+        "anaya": 50,
+        "meade": 19,
+        "bronco": 0
+      },
+      "1817": {
+        "amlo": 24,
+        "anaya": 21,
+        "meade": 26,
+        "bronco": 10
+      },
+      "1818": {
+        "amlo": 32,
+        "anaya": 32,
+        "meade": 31,
+        "bronco": 4
+      },
+      "1819": {
+        "amlo": 30,
+        "anaya": 28,
+        "meade": 38,
+        "bronco": 14
+      },
+      "1820": {
+        "amlo": 23,
+        "anaya": 39,
+        "meade": 33,
+        "bronco": 0
+      },
+      "1821": {
+        "amlo": 42,
+        "anaya": 0,
+        "meade": 0,
+        "bronco": 0
+      },
+      "1822": {
+        "amlo": 24,
+        "anaya": 17,
+        "meade": 33,
+        "bronco": 100
+      },
+      "1823": {
+        "amlo": 52,
+        "anaya": 9,
+        "meade": 10,
+        "bronco": 0
+      },
+      "1824": {
+        "amlo": 50,
+        "anaya": 24,
+        "meade": 34,
+        "bronco": 4
+      },
+      "1825": {
+        "amlo": 30,
+        "anaya": 100,
+        "meade": 40,
+        "bronco": 7
+      },
+      "1826": {
+        "amlo": 20,
+        "anaya": 13,
+        "meade": 7,
+        "bronco": 0
+      },
+      "1827": {
+        "amlo": 27,
+        "anaya": 32,
+        "meade": 27,
+        "bronco": 10
+      },
+      "1828": {
+        "amlo": 30,
+        "anaya": 24,
+        "meade": 81,
+        "bronco": 0
+      },
+      "1829": {
+        "amlo": 51,
+        "anaya": 29,
+        "meade": 45,
+        "bronco": 14
+      },
+      "1830": {
+        "amlo": 100,
+        "anaya": 52,
+        "meade": 48,
+        "bronco": 0
+      },
+      "1831": {
+        "amlo": 34,
+        "anaya": 42,
+        "meade": 54,
+        "bronco": 0
+      },
+      "1832": {
+        "amlo": 38,
+        "anaya": 39,
+        "meade": 44,
+        "bronco": 0
+      },
+      "1833": {
+        "amlo": 38,
+        "anaya": 35,
+        "meade": 23,
+        "bronco": 0
+      },
+      "1834": {
+        "amlo": 48,
+        "anaya": 64,
+        "meade": 66,
+        "bronco": 0
+      },
+      "1835": {
+        "amlo": 34,
+        "anaya": 17,
+        "meade": 75,
+        "bronco": 0
+      }
+    }
+  },
+  {
+    "periodo": "2017-10-2017-12",
+    "nombre": "Octubre 2017 - Diciembre 2017",
+    "nombrei": "October 2017 - December 2017",
+    "valores": {
+      "1804": {
+        "amlo": 35,
+        "anaya": 61,
+        "meade": 79,
+        "bronco": 0
+      },
+      "1805": {
+        "amlo": 30,
+        "anaya": 41,
+        "meade": 40,
+        "bronco": 9
+      },
+      "1806": {
+        "amlo": 27,
+        "anaya": 51,
+        "meade": 57,
+        "bronco": 0
+      },
+      "1807": {
+        "amlo": 51,
+        "anaya": 28,
+        "meade": 76,
+        "bronco": 15
+      },
+      "1808": {
+        "amlo": 48,
+        "anaya": 41,
+        "meade": 66,
+        "bronco": 0
+      },
+      "1809": {
+        "amlo": 34,
+        "anaya": 66,
+        "meade": 56,
+        "bronco": 15
+      },
+      "1810": {
+        "amlo": 28,
+        "anaya": 43,
+        "meade": 42,
+        "bronco": 11
+      },
+      "1811": {
+        "amlo": 37,
+        "anaya": 54,
+        "meade": 88,
+        "bronco": 0
+      },
+      "1812": {
+        "amlo": 47,
+        "anaya": 66,
+        "meade": 97,
+        "bronco": 10
+      },
+      "1813": {
+        "amlo": 35,
+        "anaya": 45,
+        "meade": 42,
+        "bronco": 0
+      },
+      "1814": {
+        "amlo": 22,
+        "anaya": 53,
+        "meade": 43,
+        "bronco": 2
+      },
+      "1815": {
+        "amlo": 56,
+        "anaya": 35,
+        "meade": 50,
+        "bronco": 0
+      },
+      "1816": {
+        "amlo": 45,
+        "anaya": 35,
+        "meade": 68,
+        "bronco": 5
+      },
+      "1817": {
+        "amlo": 26,
+        "anaya": 40,
+        "meade": 47,
+        "bronco": 10
+      },
+      "1818": {
+        "amlo": 31,
+        "anaya": 35,
+        "meade": 59,
+        "bronco": 6
+      },
+      "1819": {
+        "amlo": 33,
+        "anaya": 36,
+        "meade": 41,
+        "bronco": 4
+      },
+      "1820": {
+        "amlo": 44,
+        "anaya": 38,
+        "meade": 70,
+        "bronco": 6
+      },
+      "1821": {
+        "amlo": 30,
+        "anaya": 48,
+        "meade": 40,
+        "bronco": 0
+      },
+      "1822": {
+        "amlo": 26,
+        "anaya": 52,
+        "meade": 61,
+        "bronco": 100
+      },
+      "1823": {
+        "amlo": 47,
+        "anaya": 43,
+        "meade": 49,
+        "bronco": 16
+      },
+      "1824": {
+        "amlo": 40,
+        "anaya": 56,
+        "meade": 65,
+        "bronco": 14
+      },
+      "1825": {
+        "amlo": 26,
+        "anaya": 100,
+        "meade": 85,
+        "bronco": 4
+      },
+      "1826": {
+        "amlo": 27,
+        "anaya": 53,
+        "meade": 48,
+        "bronco": 9
+      },
+      "1827": {
+        "amlo": 32,
+        "anaya": 66,
+        "meade": 100,
+        "bronco": 31
+      },
+      "1828": {
+        "amlo": 40,
+        "anaya": 52,
+        "meade": 59,
+        "bronco": 4
+      },
+      "1829": {
+        "amlo": 46,
+        "anaya": 35,
+        "meade": 52,
+        "bronco": 32
+      },
+      "1830": {
+        "amlo": 100,
+        "anaya": 12,
+        "meade": 63,
+        "bronco": 7
+      },
+      "1831": {
+        "amlo": 38,
+        "anaya": 63,
+        "meade": 54,
+        "bronco": 18
+      },
+      "1832": {
+        "amlo": 36,
+        "anaya": 46,
+        "meade": 53,
+        "bronco": 12
+      },
+      "1833": {
+        "amlo": 45,
+        "anaya": 53,
+        "meade": 61,
+        "bronco": 7
+      },
+      "1834": {
+        "amlo": 32,
+        "anaya": 47,
+        "meade": 64,
+        "bronco": 12
+      },
+      "1835": {
+        "amlo": 18,
+        "anaya": 53,
+        "meade": 46,
+        "bronco": 0
+      }
+    }
+  },
+  {
+    "periodo": "2018-01-2018-03",
+    "nombre": "Enero 2018 - Marzo 2018",
+    "nombrei": "January 2018 - March 2018",
+    "valores": {
+      "1804": {
+        "amlo": 57,
+        "anaya": 88,
+        "meade": 79,
+        "bronco": 6
+      },
+      "1805": {
+        "amlo": 47,
+        "anaya": 71,
+        "meade": 56,
+        "bronco": 19
+      },
+      "1806": {
+        "amlo": 50,
+        "anaya": 53,
+        "meade": 61,
+        "bronco": 28
+      },
+      "1807": {
+        "amlo": 61,
+        "anaya": 71,
+        "meade": 63,
+        "bronco": 0
+      },
+      "1808": {
+        "amlo": 70,
+        "anaya": 57,
+        "meade": 69,
+        "bronco": 4
+      },
+      "1809": {
+        "amlo": 44,
+        "anaya": 66,
+        "meade": 56,
+        "bronco": 17
+      },
+      "1810": {
+        "amlo": 42,
+        "anaya": 61,
+        "meade": 52,
+        "bronco": 11
+      },
+      "1811": {
+        "amlo": 54,
+        "anaya": 39,
+        "meade": 98,
+        "bronco": 14
+      },
+      "1812": {
+        "amlo": 64,
+        "anaya": 85,
+        "meade": 100,
+        "bronco": 16
+      },
+      "1813": {
+        "amlo": 39,
+        "anaya": 60,
+        "meade": 59,
+        "bronco": 7
+      },
+      "1814": {
+        "amlo": 40,
+        "anaya": 78,
+        "meade": 55,
+        "bronco": 31
+      },
+      "1815": {
+        "amlo": 58,
+        "anaya": 55,
+        "meade": 72,
+        "bronco": 0
+      },
+      "1816": {
+        "amlo": 50,
+        "anaya": 87,
+        "meade": 83,
+        "bronco": 36
+      },
+      "1817": {
+        "amlo": 49,
+        "anaya": 68,
+        "meade": 62,
+        "bronco": 10
+      },
+      "1818": {
+        "amlo": 41,
+        "anaya": 57,
+        "meade": 67,
+        "bronco": 12
+      },
+      "1819": {
+        "amlo": 44,
+        "anaya": 51,
+        "meade": 62,
+        "bronco": 12
+      },
+      "1820": {
+        "amlo": 52,
+        "anaya": 63,
+        "meade": 94,
+        "bronco": 4
+      },
+      "1821": {
+        "amlo": 51,
+        "anaya": 84,
+        "meade": 91,
+        "bronco": 0
+      },
+      "1822": {
+        "amlo": 43,
+        "anaya": 66,
+        "meade": 63,
+        "bronco": 100
+      },
+      "1823": {
+        "amlo": 60,
+        "anaya": 53,
+        "meade": 69,
+        "bronco": 8
+      },
+      "1824": {
+        "amlo": 57,
+        "anaya": 78,
+        "meade": 67,
+        "bronco": 13
+      },
+      "1825": {
+        "amlo": 51,
+        "anaya": 100,
+        "meade": 71,
+        "bronco": 12
+      },
+      "1826": {
+        "amlo": 46,
+        "anaya": 48,
+        "meade": 57,
+        "bronco": 3
+      },
+      "1827": {
+        "amlo": 58,
+        "anaya": 66,
+        "meade": 76,
+        "bronco": 24
+      },
+      "1828": {
+        "amlo": 54,
+        "anaya": 62,
+        "meade": 72,
+        "bronco": 13
+      },
+      "1829": {
+        "amlo": 58,
+        "anaya": 75,
+        "meade": 82,
+        "bronco": 22
+      },
+      "1830": {
+        "amlo": 100,
+        "anaya": 68,
+        "meade": 78,
+        "bronco": 11
+      },
+      "1831": {
+        "amlo": 55,
+        "anaya": 82,
+        "meade": 72,
+        "bronco": 26
+      },
+      "1832": {
+        "amlo": 55,
+        "anaya": 89,
+        "meade": 72,
+        "bronco": 0
+      },
+      "1833": {
+        "amlo": 59,
+        "anaya": 75,
+        "meade": 80,
+        "bronco": 14
+      },
+      "1834": {
+        "amlo": 60,
+        "anaya": 70,
+        "meade": 67,
+        "bronco": 10
+      },
+      "1835": {
+        "amlo": 45,
+        "anaya": 62,
+        "meade": 74,
+        "bronco": 25
+      }
+    }
+  },
+  {
+    "periodo": "2018-04",
+    "nombre": "Abril 2018",
+    "nombrei": "April 2018",
+    "valores": {
+      "1804": {
+        "amlo": 46,
+        "anaya": 66,
+        "meade": 51,
+        "bronco": 28
+      },
+      "1805": {
+        "amlo": 53,
+        "anaya": 72,
+        "meade": 51,
+        "bronco": 10
+      },
+      "1806": {
+        "amlo": 43,
+        "anaya": 41,
+        "meade": 49,
+        "bronco": 0
+      },
+      "1807": {
+        "amlo": 78,
+        "anaya": 52,
+        "meade": 86,
+        "bronco": 26
+      },
+      "1808": {
+        "amlo": 54,
+        "anaya": 42,
+        "meade": 50,
+        "bronco": 22
+      },
+      "1809": {
+        "amlo": 52,
+        "anaya": 71,
+        "meade": 41,
+        "bronco": 18
+      },
+      "1810": {
+        "amlo": 49,
+        "anaya": 57,
+        "meade": 47,
+        "bronco": 32
+      },
+      "1811": {
+        "amlo": 35,
+        "anaya": 47,
+        "meade": 44,
+        "bronco": 0
+      },
+      "1812": {
+        "amlo": 69,
+        "anaya": 81,
+        "meade": 77,
+        "bronco": 31
+      },
+      "1813": {
+        "amlo": 52,
+        "anaya": 58,
+        "meade": 40,
+        "bronco": 32
+      },
+      "1814": {
+        "amlo": 39,
+        "anaya": 74,
+        "meade": 49,
+        "bronco": 28
+      },
+      "1815": {
+        "amlo": 53,
+        "anaya": 24,
+        "meade": 55,
+        "bronco": 34
+      },
+      "1816": {
+        "amlo": 48,
+        "anaya": 69,
+        "meade": 79,
+        "bronco": 34
+      },
+      "1817": {
+        "amlo": 50,
+        "anaya": 67,
+        "meade": 61,
+        "bronco": 22
+      },
+      "1818": {
+        "amlo": 46,
+        "anaya": 63,
+        "meade": 61,
+        "bronco": 24
+      },
+      "1819": {
+        "amlo": 41,
+        "anaya": 66,
+        "meade": 38,
+        "bronco": 9
+      },
+      "1820": {
+        "amlo": 57,
+        "anaya": 54,
+        "meade": 79,
+        "bronco": 10
+      },
+      "1821": {
+        "amlo": 42,
+        "anaya": 58,
+        "meade": 36,
+        "bronco": 30
+      },
+      "1822": {
+        "amlo": 56,
+        "anaya": 82,
+        "meade": 53,
+        "bronco": 100
+      },
+      "1823": {
+        "amlo": 58,
+        "anaya": 56,
+        "meade": 71,
+        "bronco": 32
+      },
+      "1824": {
+        "amlo": 62,
+        "anaya": 80,
+        "meade": 65,
+        "bronco": 32
+      },
+      "1825": {
+        "amlo": 57,
+        "anaya": 100,
+        "meade": 62,
+        "bronco": 16
+      },
+      "1826": {
+        "amlo": 50,
+        "anaya": 58,
+        "meade": 46,
+        "bronco": 13
+      },
+      "1827": {
+        "amlo": 52,
+        "anaya": 90,
+        "meade": 61,
+        "bronco": 22
+      },
+      "1828": {
+        "amlo": 62,
+        "anaya": 65,
+        "meade": 56,
+        "bronco": 18
+      },
+      "1829": {
+        "amlo": 58,
+        "anaya": 58,
+        "meade": 70,
+        "bronco": 9
+      },
+      "1830": {
+        "amlo": 100,
+        "anaya": 62,
+        "meade": 64,
+        "bronco": 35
+      },
+      "1831": {
+        "amlo": 54,
+        "anaya": 92,
+        "meade": 58,
+        "bronco": 37
+      },
+      "1832": {
+        "amlo": 50,
+        "anaya": 86,
+        "meade": 96,
+        "bronco": 21
+      },
+      "1833": {
+        "amlo": 54,
+        "anaya": 72,
+        "meade": 59,
+        "bronco": 22
+      },
+      "1834": {
+        "amlo": 62,
+        "anaya": 41,
+        "meade": 100,
+        "bronco": 4
+      },
+      "1835": {
+        "amlo": 45,
+        "anaya": 71,
+        "meade": 67,
+        "bronco": 9
+      }
+    }
+  }
+]
